@@ -1,0 +1,715 @@
+[
+  {
+    "id": 100,
+    "article": "YKS sonuçları ne zaman açıklanır sorusu öğrencilerin gündeminde . 2 milyonu aşkın öğrencinin giriş yaptığı YKS sınav sonuçları 18 Temmuz 2019 Perşembe günü erişime açılacak . Adaylara sonuç belgesi gönderilmeyecek . Adaylar sınav sonuçlarını , T.C . Kimlik Numaraları ve şifreleri ile ÖSYM ’ nin https : //sonuc.osym.gov.tr internet adresinden , mobil uygulamalarından öğrenebilecekler . 2019 YÜKSEKÖĞRETİM PROGRAMLARI VE KONTENJANLARI İÇİN TIKLA YKS SONUÇLARI NE ZAMAN AÇIKLANACAK ? ÖSYM ’ nin takvimine göre , YKS sınav sonuçları 18 Temmuz 2019 Perşembe günü erişime açılacak . Adaylara sonuç belgesi gönderilmeyecek . Adaylar sınav sonuçlarını , T.C . Kimlik Numaraları ve şifreleri ile ÖSYM'nin https : //sonuc.osym.gov.tr internet adresinden , mobil uygulamalarından öğrenebilecekler . İnternet sayfasındaki duyurular adaylara tebliğ hükmünde olacak . Ayrıca YKS Yükseköğretim Programları ve Kontenjanları Kılavuzu yayınlandı ancak bu yayınlanan kılavuz ön bilgilendirme amacı taşıyor . YKS TERCİHLERİ NE ZAMAN ? YKS tercihleri 23-29 Temmuz 2019 tarihleri arasında alınacak . ÖNBİLGİLENDİRME KILAVUZU YAYINLANDI Kılavuz , adaylara ve diğer ilgililere ön bilgi vermek amacıyla yayımlanmaktadır . Bu nedenle adayların , tercihlerini belirlemeden önce tercih süresi içinde ÖSYM ’ nin internet adresinden yeniden yayımlanacak 2019-YKS Yükseköğretim Programları ve Kontenjanları Kılavuzunu dikkatle incelemeleri ve ÖSYM'den yapılan duyuruları takip etmeleri gerekmektedir. ” denildi .",
+    "summary": "YKS ne zaman açıklanır araştırması üniversite hayali kuran öğrencilerin gündeminde . Üniversite sınav sonucu olan YKS sonuçlarının ÖSYM sınav takvimine göre 18 Temmuz Perşembe günü açıklanacak . YKS tercihleri 23-29 Temmuz 2019 tarihleri arasında alınacak .",
+    "scores": {
+      "relevance": 4,
+      "coherence": 4,
+      "consistency": 5,
+      "fluency": 5,
+      "conciseness": 5,
+      "quotation_score": 3,
+      "overall_score": 4
+    }
+  },
+  {
+    "id": 101,
+    "article": "Ankara'da oto hırsızlık çetesine yönelik düzenlenen ‘ Balta ’ operasyonunda , çete lideri ‘ balta ’ lakaplı şahıs ile 7 kişi gözaltına alındı . Diğer bir operasyonda ise 3 şüpheli çaldıkları araçları parçalarken yapılan baskında suçüstü yakalandı . Ankara Emniyet Müdürlüğü ’ ne bağlı Asayiş Şube Müdürlüğü Oto Hırsızlık Büro Amirliği ekipleri , Ankara ilinde meydana gelen , oto hırsızlık olaylarına karşı Ankara Cumhuriyet Başsavcılığı ’ nın izniyle yürüttükleri 3 aylık çalışma sonucunda operasyon düğmesine bastı . Yapılan teknik ve fiziki takip sonucunda , ‘ Balta ’ çetesine ulaşıldı . Çeteyi izleyen ekipler , Ankara , Konya ve Antalya ’ da eş zamanlı operasyon düzenleyerek çete lideri ‘ Balta ’ lakaplı Necati D. ve çete üyesi 7 kişiyi yakaladı . Takip edildiğini anlayınca ortadan kayboldu Çete lideri ‘ Balta ’ nın , polis ekipleri tarafından izlendiğini anladığı ve aylarca ortada görünmediğini tespit eden Hırsızlık Büro ekipleri , ‘ Balta ’ nın kendi suç ortaklarını da dolandırmaya çalıştığını saptadı . Adliyeye sevk edilen şüphelilerden haklarında çok sayıda oto hırsızlık kaydı bulunan çete lideri Necati D. , Ferhat K. , Atakan A. ve Tayfun G. , çıkarıldıkları nöbetçi sulh hakimliğince tutuklanarak cezaevine gönderildi . Diğer 3 şüpheli ise adli kontrol şartıyla serbest bırakıldı . Çaldıkları araçları parçalarken polis bastı Diğer bir olay ise Altındağ ilçesinde meydana geldi . Hırsızlık Büro ekipleri inceledikleri 2 oto hırsızlık olayının sonucunda 3 şüpheliyi takibe aldı . Şüphelilerin çaldıkları 2 aracı İvedik Hurdacılar Sitesi ’ ndeki depolarında parçalayacaklarını belirleyen ekipler harekete geçti . Depoya baskın yapan polis ekipleri , 3 şüpheliyi suçüstü yakaladı . Emniyetteki işlemlerinin ardından adliyeye sevk edilen hırsızlık zanlıları , çıkarıldıkları nöbetçi mahkeme tarafından adli kontrol şartıyla serbest bırakıldı .",
+    "summary": "ANKARA'da oto hırsızlık çetesine yapılan operasyona 'balta ' lakaplı çete hırsızı ile 7 kişi gözaltına alındı .",
+    "scores": {
+      "relevance": null,
+      "coherence": null,
+      "consistency": null,
+      "fluency": null,
+      "conciseness": null,
+      "quotation_score": null,
+      "overall_score": null,
+      "error": "Error code: 400 - {'error': {'message': \"The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766\", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}"
+    }
+  },
+  {
+    "id": 102,
+    "article": "Kim Milyoner Olmak İster adlı yarışmada 15 bin TL ’ lik soruya kadar doğru yanıt veren , 15 bin TL ’ nin ardından da Kaşgâr şehri nerede ? Kült kelimesinin Latince kökeninin anlamı , Ereğli belediye eski başkanı Halil Posbıyık , hangi hayvan karbonu elmasa çevirebilecek güçteki basınca dayanır ve Heredotos ’ a göre Mısırlılar , ilk insanları araştırdıkları deneydeki çocuklar kimlerin dilindeki Bekos yani ekmek dedikleri için ilk insanları onlar olarak kabul etmişlerdir ? sorularını da kayıpsız geçen Arda Ayten , 1 milyon TL ’ lik soruya kadar ulaştı .",
+    "summary": "Kim Milyoner Olmak İster yarışmasında 1 milyonluk soruyu açtıran Arda Ayten Türkiye'nin gündemine oturdu . Hayat hikayesi ile de herkesin dikkatini çeken Srda Ayten kimdir , kaç yaşında , aslen nereli işte merak edilenler..",
+    "scores": {
+      "relevance": 3,
+      "coherence": 3,
+      "consistency": 3,
+      "fluency": 4,
+      "conciseness": 4,
+      "quotation_score": 2,
+      "overall_score": 3
+    }
+  },
+  {
+    "id": 103,
+    "article": "İstanbul Üniversitesi Lisans Yönetmeliğinde yapılan değişiklik ile İktisat Fakültesi örgün ve ikinci öğretim programlarından mezun olabilmek için en fazla 3 ( Üç ) başarısız ders için yapılan Mezuniyete Üç Ders Sınavı tarihi belli oldu . Herhangi bir dersten başarısız olan öğrenciler 7 Eylül 2019 tarihinde yapılacak sınava başvuru yapmadan girebilecektir . 7 Eylül 2019 tarihinde mezuniyete üç ders sınavına girecek öğrenciler tekrar sınav merkezi tercihi yapmayacak olup , 7 Eylül'de yapılacak olan sınava da aynı sınav merkezinde gireceklerdir . 7 Eylül 2019 Mezuniyete Üç Ders Sınav başvurusu reddedilen öğrencilerin tekrar başvuru hakkı yoktur . 7 Eylül 2019 tarihli Mezuniyete Üç Ders Sınavı Sınav Giriş Belgeleri yayınlandığında duyurulacaktır . Sınav Giriş Belgelerinizi AKSİS kullanıcı adı ve şifrenizle https : //sinav.istanbul.edu.tr/ucdersSinav/ adresinden alabilirsiniz . BAŞVURU KOŞULLARI VE AÇIKLAMALAR Öğrencilerin , mezuniyete üç ders sınavına girebilmeleri için 2017/2018 bahar yarıyılında kaydını yenilemiş olması gerekmektedir . Programındaki eğitimini tamamlamış , tüm dönemlerden en fazla üç başarısız ( FF ) harf notu bulunan öğrenciler , mezuniyete üç ders sınavına girebilir . ( Lisans öğrencileri 8. yarıyılı , ön lisans öğrencileri 4. yarı yılı tamamlamış olmalıdır . ) Başarısız ( FF ) harf notu bulunmayan ancak mezuniyet için gerekli olan minimum 2.00 AGNO notunu sağlayamayan öğrenciler , en fazla üç DC , DD ( koşullu başarılı ) harf notlu derslerinden mezuniyete üç ders sınavına girebilir . DC , DD harf notlu derslerinden mezuniyete üç ders sınavına başvuran öğrenciler , optiğe işaretleme yapmaması durumunda başarısız sayılacaktır . Öğrencilerin en son aldıkları ( mezuniyete üç ders sınavından ) not geçerli olur . Stajını veya uygulama dersini tamamlamayan/başarılı olamayan öğrenciler mezuniyete üç ders sınavına giremez . Mezuniyete üç ders sınavına giren öğrencilerin başarı notu , mutlak değerlendirme sistemine göre hesaplanır . Sınavdan 50 puan ve üzeri alan öğrenci ilgili dersten başarılı olmuş sayılır . Vize , final ve bütünleme sınav notları mezuniyete üç ders sınavı değerlendirmesine katılmaz . Her ne sebeple olursa olsun mezuniyete üç ders sınavına katılmayan veya katılamayan öğrenci için mazeret sınavı yapılmaz .",
+    "summary": "İstanbul Üniversitesi AUZEF mezuniyet için 3 ders sınavı ne zaman yapılacak araştırması başladı . 3 dersten başarısız olan öğrencilerin gireceği AUZEF mezuniyet sınavı 7 Eylül'de yapılacak .",
+    "scores": {
+      "relevance": null,
+      "coherence": null,
+      "consistency": null,
+      "fluency": null,
+      "conciseness": null,
+      "quotation_score": null,
+      "overall_score": null,
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    }
+  },
+  {
+    "id": 104,
+    "article": "En son 2008 yılında “ Çağdaş Türkiye İçin Değişim Programı ” başlığıyla kabul edilen programın CHP Genel Başkan Yardımcısı Fethi Açıkel'in koordinasyonunda “ 21 . yüzyıl Türkiyesi'ne uygun ” ve Cumhuriyetçi bir program ” hedefiyle yeniden ele alınacağı belirtildi . Cumhuriyet ’ ten Mahmut Lıcalı ’ nın haberine göre , programda tek adam rejiminden çıkışın formülü ve yeni rejimin neden olduğu sorunlara ilişkin çözümlerin sıralanacağı ifade edildi . Cumhurbaşkanlığı hükümet sistemi nedeniyle güncelliğini yitirdi CHP'de 16 Nisan 2017 referandumunda kabul edilen ve 24 Haziran 2018 seçimiyle uygulamaya geçen Cumhurbaşkanlığı hükümet sistemi nedeniyle güncelliğini yitiren ve tekrar ele alınması gereken parti programının güncellenmesine yönelik hazırlıklar başladı . Edinilen bilgiye göre Şubat 2020'de gerçekleşmesi gereken olağan kurultayda parti programının yenilenmesin için CHP lideri Kılıçdaroğlu kurmaylarına talimat verdi . Açıkel koordine edecek Bu kapsamda CHP Genel Başkan Yardımcısı Fethi Açıkel'in koordinasyonunda programın yenilenmesine yönelik çalışmalara başlandı . Dünyanın dört bir yanındaki tüm merkez sol ve sosyalist partilerin programları incelenerek , çağdaş programlar hakkında raporlar hazırlanacak . Oluşturulan raporlar akademisyenlerden oluşan bir kurul tarafından da değerlendirilecek . Yenilenecek parti programında “ 21 . yüzyıl Türkiyesi'nin her türlü ihtiyacına yanıt verebilen ” ve “ Cumhuriyetçi bir program ” olmasının hedeflendiği kaydedildi . Yeni programda tek adam rejiminin yarattığı bütün sorun alanlarının somut bir şekilde belirlenerek her bir çözüm alanına yönelik çözüm önerilerinin sıralanması hedeflenecek . Baykal yenilemişti Kılıçdaroğlu'nun genel başkan olmasının ardından parti programında bugüne kadar hiçbir değişiklik yapılmamıştı . Parti programı en son ; 32 . Olağan Kurultay'da Deniz Baykal'ın CHP Genel Başkanlığı'na tekrar seçilmesinin ardından 21 Aralık 2008 tarihinde gerçekleştirilen 14 . Olağanüstü Kurultay'da yenilenmişti . 2008'de kabul edilen parti programı “ Çağdaş Türkiye İçin Değişim ” adını taşırken ; toplam 6 bölüm ve 349 sayfadan oluşmuştu .",
+    "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu ; parlamenter sistemin son bulduğu başkanlık sistemi nedeniyle pek çok bölümün tekrar ele alınması gereken parti programının güncellenmesi için talimat verdi .",
+    "scores": {
+      "relevance": 2,
+      "coherence": 3,
+      "consistency": 3,
+      "fluency": 4,
+      "conciseness": 4,
+      "quotation_score": 1,
+      "overall_score": 3
+    }
+  },
+  {
+    "id": 105,
+    "article": "Husilere bağlı El-Mesire kanalına göre , Husilere ait `` Kasıf 2 '' isimli insansız hava aracıyla ( İHA ) Cizan Havaalanı'na gerçekleştirilen saldırıda askeri uçakların bulunduğu bir garaj ile başka askeri hedeflerin vurulduğu ifade edildi . Açıklamada ayrıca , düzenlenen saldırı sonucu havaalanındaki hava trafiğinin durduğu belirtildi . Husilere ait bir İHA düşürüldü Suudi Arabistan öncülüğündeki koalisyon güçlerinin sözcüsü Türki el-Maliki , Cizan kentini hedef alan Husilere ait bir İHA'nın düşürüldüğünü açıkladı . Maliki , Husilerin sivil tesisleri ve sivilleri hedef alan terör saldırıları gerçekleştirmek için İHA göndermeye devam ettiğini kaydetti . Koalisyon güçlerinin düşürdüğü İHA'nın havaalanını hedef alıp almadığı konusunda bilgi verilmedi . Suudi Arabistan hava savunma sistemi tarafından etkisiz hale getirildi Husiler , son yıllarda genellikle Suudi Arabistan hava savunma sistemi tarafından etkisiz hale getirilen orta ve uzun menzilli balistik füzelerin yanı sıra İHA'ları da kullanarak bu ülkenin bazı bölgelerini hedef alıyor . Husiler , Eylül 2014'ten bu yana Yemen'de başkent Sana ve bazı bölgelerin denetimini elinde bulunduruyor . Suudi Arabistan öncülüğündeki koalisyon güçleri ise Mart 2015'ten bu yana Husilere karşı Yemen hükümetine destek veriyor .",
+    "summary": "Yemen'deki Husiler , Suudi Arabistan'ın güneybatısındaki Cizan Havaalanı'nın İHA ile saldırı düzenlediklerini duyurdu .",
+    "scores": {
+      "relevance": null,
+      "coherence": null,
+      "consistency": null,
+      "fluency": null,
+      "conciseness": null,
+      "quotation_score": null,
+      "overall_score": null,
+      "error": "Error code: 400 - {'error': {'message': \"The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766\", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'high'}}}}}"
+    }
+  },
+  {
+    "id": 106,
+    "article": "Oxford Üniversitesi ’ nde eğitim alan ve 2004 yılında El Maktum ile evlenen Prenses Haya ( 45 ) , Eski Ürdün Kralı Hüseyin ’ in kızı ve şimdiki Ürdün Kralı 2 . Abdullah ’ ın üvey kız kardeşi . Prenses Haya ile ilgili iddialar , geçen yıl Şeyhin kızı Prenses Latifa ’ nın baskılar nedeniyle ülkeden kaçma ve ABD ’ den siyasi sığınma girişimi sonrasına denk geldi .",
+    "summary": "Dubai Şeyhi Muhammed el Maktum ’ un eşi Prenses Haya ’ nın , bir Alman diplomatın yardımıyla ülkeden kaçtığı iddia ediliyor .",
+    "scores": {
+      "relevance": null,
+      "coherence": null,
+      "consistency": null,
+      "fluency": null,
+      "conciseness": null,
+      "quotation_score": null,
+      "overall_score": null,
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    }
+  },
+  {
+    "id": 107,
+    "article": "Mehmet Akif Mahallesi Aşık Veysel Caddesi ’ nde , sokakta karpuz satan bir esnafın küçük kızına bir kişinin tacizde bulunduğu iddiasının yayılmasıyla birlikte mahalleli sokağa döküldü . Kalabalık Aşık Veysel Caddesi üzerinde yürüyüşe geçerek Mehmet Akif Mahallesi ’ ndeki polis merkezine yürüdü . Yaşanan durum neticesinde olay yerine çok sayıda çevik kuvvet ekibi sevk edildi . Polis ekipleri burada vatandaşların dağılması yönünde uzun süre anonslarla uyarılarda bulundu . Bazı şahıslar gözaltına alındı Müdahale sırasında toplanan grup sokak aralarına kaçışırken , tekrar toplanan gruptan bazı şahıslar gözaltına alındı . Emniyet'ten açıklama : `` taciz yok '' Öte yandan söz konusu taciz iddiası ile ilgili emniyet kaynaklarından edinilen bilgiye göre , “ Küçükçekmece ’ deki taciz iddiası ile ilgili konu şu şekilde ; 12 yaşında Yabancı uyruklu bir çocuk evinin camından , 12 yaşındaki başka bir kız çocuğuna camdan ‘ gel gel ’ der . Konu sadece bundan ibaret , herhangi bir fiziki temas taciz olayı söz konusu değildir ” belirtildi . Söz konusu taciz iddiası ile ilgili bir şüphelinin gözaltına alındığı ve emniyetteki işlemlerinin sürdüğü belirtildi . Polis ekiplerinin caddede ve polis merkezi önünde güvenlik tedbirleri devam ediyor .",
+    "summary": "İstanbul Küçükçekmece'de küçük kız çocuğuna taciz iddiası sonrası mahalleli sokağa döküldü .",
+    "scores": {
+      "relevance": 3,
+      "coherence": 4,
+      "consistency": 4,
+      "fluency": 5,
+      "conciseness": 5,
+      "quotation_score": 1,
+      "overall_score": 4
+    }
+  },
+  {
+    "id": 108,
+    "article": "Başkanlık Konseyinden yapılan yazılı açıklamada , Hafter güçlerinin , Türk uçak ve gemilerini tehdit etmesi kınanırken , Libya'daki herhangi bir ülkenin vatandaşları ile kurumlarına gelecek zarardan Hafter güçlerinin sorumlu olacağı belirtildi . Hafter ' e bağlı güçlerin tehditlerinin nefret suçuna teşvik olduğunun vurgulandığı açıklamada , Birleşmiş Milletler ( BM ) Libya Destek Misyonu ( UNSMIL ) ve uluslararası topluma , Hafter güçlerinin açıklamalarıyla ilgili tavır alması çağrısında bulunuldu . Açıklamada ayrıca , söz konusu tehditlerin , savaş suçu ve insanlığa karşı işlenen suça varacak kadar büyük felaketlere sebep olacağı uyarısında bulunuldu . Türkiye'yi suçlamaya çalışmıştı Hafter ' e bağlı güçler , başkent saldırısında Giryan kentinde yaşadığı bozgunun ardından Türkiye'yi suçlamaya çalışmıştı . Halife Hafter'in sözcüsü Ahmed Buzeyd el-Mismari , Libya el-Manara medya platformunun sosyal hesabında yer alan açıklamasında , Libya Hava Kuvvetlerinin , ülke karasularına yaklaşan tüm Türk gemilerinin hedef alınması yönünde talimat verdiğini , Libya Kara Kuvvetlerinin de Türk hedeflerini düşman hedefleri olarak gördüğünü duyurmuştu . Mismari , aynı açıklamada Libya'da yatırımları olan Türk şirketlerine de yaptırım uygulanacağını söylemişti .",
+    "summary": "Libya'da Ulusal Mutabakat Hükümeti ( UMH ) Başkanlık Konseyi , Hafter güçlerinin Türkiye'ye yönelik tehditlerinin nefret suçuna teşvik etmek olduğunu bildirdi .",
+    "scores": {
+      "relevance": 2,
+      "coherence": 3,
+      "consistency": 2,
+      "fluency": 4,
+      "conciseness": 4,
+      "quotation_score": 1,
+      "overall_score": 2
+    }
+  },
+  {
+    "id": 109,
+    "article": "Yaygın beldesindeki Kardeşler İlkokulu'nun 2'nci sınıf öğrencisi olan görme engelli Bager Çalışcı'yı , müziğe ilgisini fark eden babası Mehmet Çalışcı , müzik kursuna başlattı . Bager Çalışcı , burada kendisi gibi görme engelli Yarpuzlu Köyü İlkokulu'nda müzik öğretmeni olan Caner Keser ile tanıştı . Keser , Bager'in absolut ( kusursuz ) kulağa sahip olduğunu fark etti . Bager Çalışcı , Caner Keser'in de yardımıyla piyano çalmayı öğrendi . Bager Çalışcı'nın köy okulunda konserverme hayali , 18 gün önce gerçekleşti . Kent merkezine 55 kilometre uzaklıkta bulunan Ağartı Köyü İlkokulu'ndaki öğretmenler , Bager Çalışcı'nın ailesiyle birlikte köydeki öğrencilere piyano konseri vermesi için ortam hazırladı . Fazıl Say ile konser hayali Köy okulunda okuyan ve hayatında daha önce piyano görmemiş öğrenciler ile köy meydanında bir araya gelen Bager , Beethoven'ın 'Yalnızlık Senfonisi ' ile 'Ay Işığı Sonatı'nı , Yann Tiersen'nin eserini ve güncel şarkıları çaldı . Bager Çalışcı , diğer hayalinin de Fazıl Say ile tanışmak ve birlikte konser vermek olduğunu söyledi . Fazıl Say , Bager'in hayalini gerçekleştirdi Bager'in hikayesinin basında haber olarak yer almasının ardından dünyaca ünlü piyanist ve besteci Fazıl Say , aileye ulaştı ve 30 Haziran'da , İstanbul Lütfi Kırdar Anadolu Auditorium'da Şanghay Filarmoni Orkestrası ile vereceği konserine , Bager ve babası Mehmet Çalışcı ile müzik öğretmeni Caner Keser ' i davet etti . Bager Çalışçı , babası Mehmet Çalışcı ve öğretmeni Caner Keser , konser için bugün 08.50 uçağıyla İstanbul ' a gitti . Fazıl Say , evinde ağırladığı Bager , babası ve öğretmeni ile yakında ilgilendi . Bager ile sohbet eden Say , daha sonra birlikte piyano başına geçti . Konser provasını bırakıp Bager ile piyano çalan Say , bu anları sosyal medya hesabından paylaştı . Bager ' e inancımız sonsuz Ünlü piyanist Say , `` Bager 7 yaşında , hatırlarsanız ilk konserini geçen ay Muş ’ un bir dağ köyünde çocuklara vermişti . Görme engelli bir güzel yetenek Bager . Bugün öğlen yaşadığı Muş ’ tan bizi ziyarete geldiler . Babası sevgili Mehmet bey , piyano hocası sevgili Caner bey , Bager ’ e eğitiminde ileride destek olacak olan Çev Sanat . Dostlar ; piyano eğitimi uzun bir yoldur . 10-15 yıl , merdivenlerden çıka çıka ... Bager bu yolu katedecektir , yeteneğine inancımız sonsuz , çok emek ve çok çalışma ile . En iyi hocalar ile ilerlemesi için ben de yol göstericisi olacağım . Video ’ da katibim çalıyoruz ama Bager 'biraz ellerimiz birbirine karıştı ' dedi . Fotoğraflar da günün anısı '' diye yazdı . Fazıl Say'ın eserini çalacağım dedi Bager'in çok heyecanlandığını söyleyen baba Mehmet Çalışcı ise `` Bager'in gayet doğal ama heyecanlı ve meraklı bir durumu , sormak istediği çok soru vardı . Piyanosunu merak etti . Piyanosuyla çaldı . 'Başka piyanistlerin eserlerini çalışmak istemiyorum , saygısızlık olur , Faz'ıl Say'ın eserini çalacağım ' dedi . Çok iyi ve harika insanlar . Bager ' i çok iyi ağırladılar . Çok ilgilendiler '' dedi .",
+    "summary": "Muş'ta doğuştan görme engelli ve kusursuz denecek bir kulağa sahip Bager Çalışcı , besteci ve piyanist Fazıl Say ile birlikte piyano çaldı .",
+    "scores": {
+      "relevance": 2,
+      "coherence": 3,
+      "consistency": 4,
+      "fluency": 4,
+      "conciseness": 3,
+      "quotation_score": 1,
+      "overall_score": 3
+    }
+  },
+  {
+    "id": 110,
+    "article": "Haftaya Yengeç Burcu ’ nda oluşan bir Güneş Tutulması ile merhaba diyoruz . Bu Tutulma bizler için çok önemli . Ev , aile olaylarının bu Tutulma ile hızlandığını görebiliriz . Tutulma günü Mars , Aslan Burcu ’ na geçecek . Enerjimizi daha aktif bir şekilde ön plana çıkartacaki organizasyon ve yönetim gerektiren işlerde kendimizi etkin bir şekilde ortaya koyabiliriz . Çarşamba günü Venüs , Yengeç Burcu ’ na geçiyor . Evimiz , ailemiz ve bizi seven insanlarla birlikte ilişkilerimiz ön planda olacak . Perşembe gününe dikkat edelim . Bizi aşağıya çekecek durum ve koşullardan uzak durmalıyız . Güzel bir Tutulma ve hafta olsun .",
+    "summary": "Haftaya Yengeç Burcu ’ nda oluşan bir Güneş Tutulması ile merhaba diyoruz . 1-7 Temmuz 2019 haftalık burç yorumlarını Astroloji uzmanı Hande Kazanova cevapla.tv kameralarına anlattı . Koç , Boğa , İkizler , Yengeç , Aslan , Başak , Terazi , Akrep , Yay , Oğlak , Kova ve Balık burçlarını neler bekliyor ?",
+    "scores": {
+      "relevance": 2,
+      "coherence": 3,
+      "consistency": 2,
+      "fluency": 4,
+      "conciseness": 3,
+      "quotation_score": 1,
+      "overall_score": 2
+    }
+  },
+  {
+    "id": 111,
+    "article": "Bu hafta başında ailenizle olmak ya da işlerinizi bir an önce halledip evinize gitmek isteyebilirsiniz . Önemli kararlar almamanız gerekiyor . Salı günü bir Tutulma gerçekleşecek . Bu Tutulma sizin aşk alanınızı etkileyecek sevgili Balık ve yükselen Balık ’ lar . Hayatınızı keyiflendirecek ve biraz da rahatlatacak bir Tutulma yaşayacaksınız.Mars , Aslan Burcu ’ na geçiyor . Çalışma hayatınız önem kazanacak . Bu dönem çok çalışabilirsiniz . Çarşamba günü itibariyle Venüs , Yengeç Burcu ’ na geçecek . Sevdiğiniz insanla birlikte sosyalleşebilir ve hayattan alacağını keyfi yükseltebilirsiniz . Bu dönem çok keyifli bir dönem . Kafanızı dinleyin ve sevdiklerinizle daha fazla vakit geçirin . Perşembe gününe dikkat etmelisiniz . Geleceğe dair endişe ve korkularınızın ön plana çıkması , bazı konu ve olayların tekrar etmesi sizi zorlayabilir . Böyle bir durumda sevdiğiniz insanlarla olan bağlantılarınızı kuvvetlendirmeye özen gösterin . Güzel bir hafta diliyorum .",
+    "summary": "1-7 Temmuz 2019 haftasında Balık burcunu neler bekliyor ? Astroloji uzmanı Hande Kazanova Balık burcunu sizler için yorumladı . Bu hafta başında ailenizle olmak ya da işlerinizi bir an önce halledip evinize gitmek isteyebilirsiniz .",
+    "scores": {
+      "relevance": 3,
+      "coherence": 4,
+      "consistency": 4,
+      "fluency": 5,
+      "conciseness": 4,
+      "quotation_score": 2,
+      "overall_score": 4
+    }
+  },
+  {
+    "id": 112,
+    "article": "Haftaya eğlenceli bir şekilde başlıyorsunuz sevgili Kova ve yükselen Kova ’ lar . Gün içerisindeki eğlenceli ve sizi harekete geçirecek olaylar pazartesi gününüzü keyifli kılabilir . Önemli girişimler konusunda desteklenmeyeceğiniz bir gün olacak . Salı günü yaşanacak Tutulma ’ yı iş , hizmet ve sağlık alanlarınızda yaşayacaksınız . İş planlarınız ve günlük hayatınızın ritminde de hızlı birtakım konu ve olayların arttığını göreceksiniz ve bazen olayları kontrol etmekte zorlanabilirsiniz . Bu hafta hayatın akışına güvenin ve kontrol etmeye çalışmayın . Bu Tutulma zamanında önemli bir iş ya da projenin başlaması devrede olabilir . Büyük kararlar için birkaç gün daha beklemelisiniz.Mars , Aslan Burcu ’ na geçiyor . İkili ilişkiler ve özel hayatınızda sürtüşmelere açık olabilirsiniz . Sevdiğiniz insanla bir araya gelmek için mücadele halinde olabilirsiniz . Çarşamba günü itibariyle Venüs , Yengeç Burcu ’ na geçecek . İşinizi ve üretmeyi seveceğiniz bir dönem başlıyor . Bir arada olduğunuz insanlarla bağlantınızı kuvvetlendireceksiniz . Güzel bir hafta olsun .",
+    "summary": "Astroloji uzmanı Hande Kazanova Kova burcunu sizler için yorumladı . 1-7 Temmuz 2019 haftasında Kova burcunu neler bekliyor ? Gün içerisindeki eğlenceli ve sizi harekete geçirecek olaylar pazartesi gününüzü keyifli kılabilir .",
+    "scores": {
+      "relevance": 2,
+      "coherence": 3,
+      "consistency": 3,
+      "fluency": 4,
+      "conciseness": 4,
+      "quotation_score": 2,
+      "overall_score": 3
+    }
+  },
+  {
+    "id": 113,
+    "article": "Günlük hayatınızın düzeni bu pazartesi önem kazanıyor sevgili Oğlak ve yükselen Oğlak ’ lar . Önemli birtakım projeler ve iş görüşmeleri için desteklenmeyeceksiniz . Salı günü bir Tutulma yaşanacak . Siz bu Tutulma ’ yı özel hayatınızda yaşayacaksınız sevgili Oğlak ’ lar . İkili ilişkiler ve özel hayatınızda alınacak önemli kararlar hızlanabilir . Sevdiğiniz insanın hayatındaki önemli gelişmelerin sizin hayatınıza da etki ettiğinin görebilirsiniz . Ortaklı bir iş ya da projelerin başlaması söz konusu olabilir . Taşınmayla ilgili ani ve beklenmedik olaylar gündeme gelebilir . Mars , Aslan Burcu ’ na geçiyor . Maddi konuları dikkatlice gözden geçirmeniz gereken bir dönem . Tehlikeli yerlerden ve durumlardan uzak durmalısınız . Değişik olaylar ilginizi daha fazla çekecek . Enerjinizi doğru kullanmakta zorlanacaksınız . Özel hayatınızda çok mutlu olacağınız bir dönem başlıyor . İlişkilere daha fazla vakit ayırmanız gerektiğini farkedeceksiniz . Hayatınızda yaşadığınız sıkıntılar varsa birçok insanın size yardım ettiğini göreceksiniz . Güzel bir hafta diliyorum .",
+    "summary": "Astroloji uzmanı Hande Kazanova Oğlak burcunu sizler için yorumladı . 1 - 7 Temmuz 2019 haftasında Oğlak burcunu neler bekliyor ? Günlük hayatınızın düzeni bu pazartesi önem kazanıyor sevgili Oğlak ve yükselen Oğlak ’ lar .",
+    "scores": {
+      "relevance": 2,
+      "coherence": 3,
+      "consistency": 3,
+      "fluency": 4,
+      "conciseness": 2,
+      "quotation_score": 3,
+      "overall_score": 3
+    }
+  },
+  {
+    "id": 114,
+    "article": "Başka insanlarla irtibat halinde olduğunuz bir hafta başlıyor sevgili Yay ve yükselen Yay ’ lar . Diğer insanlarla iletişimde bulunmaktan mutluluk duyacağınız bir dönem . Diğer taraftan pazartesi günü önemli birtakım görüşmeler , anlaşmalar ve girişimleriniz varsa bunları ertelemekte fayda var . Salı günü bir Güneş Tutulması gerçekleşecek . Bu Tutulma sizin parasal işlerinizi tetikleyecek . Banka işlemleri , kredi ve faiz konuları önem kazanıyor . Bu alanlarda önemli birtakım kararlar almaya yatkın olacaksınız . Mars , Aslan Burcu ’ na geçiyor . Seyahatleriniz artabilir . Medya alanında çalışan Yay ’ lar bu dönemde güçlerini göstermek ve diğer insanlarla iş birlikleri yerine kendileri ön plana çıkmak isteyebilirler . Tanımadığınız insanlarla fikir çatışmalarına girmemeye özen göstermelisiniz . Bu dönemde işten elde edilen gelirlerinizde güzel bir artış yaşanabilir . Perşembe gününe dikkat edin . Parasal konular sizi aşağıya çekebilir . Güzel bir hafta diliyorum .",
+    "summary": "Astroloji uzmanı Hande Kazanova Yay burcunu sizler için yorumladı . 1-7 Temmuz 2019 haftasında Yay burcunu neler bekliyor.Başka insanlarla irtibat halinde olduğunuz bir hafta başlıyor sevgili Yay ve yükselen Yay ’ lar .",
+    "scores": {
+      "relevance": 2,
+      "coherence": 2,
+      "consistency": 3,
+      "fluency": 3,
+      "conciseness": 2,
+      "quotation_score": 1,
+      "overall_score": 2
+    }
+  },
+  {
+    "id": 115,
+    "article": "Ödemelerin ön planda olduğu bir hafta başlıyor sevgili Akrep ve yükselen Akrep ’ ler . Pazartesi günü büyük parasal işlerden uzak durun . Ufak tefek ödemeleriniz ve toparlanması gereken konular üzerine yoğunlaşın . Salı günü bir Güneş tutulması yaşanacak . Bu Tutulma sizin uzak çevre alanlarınızı etkileyecek . Çeşitli fırsatların karşınıza geldiğini görebilirsiniz . Mars , Aslan Burcu ’ na geçecek . Kariyerinizde kendinizi göstermek istediğiniz bir dönem olacak . Beraber iş yaptığınız insanlar ve patronlarınızla sürtüşmemeye özen göstermelisiniz . Çarşamba günü itibariyle Venüs , Yengeç Burcu ’ na geçecek . Gezmek ve değişik yerlerde bulunmaktan mutluluk duyacaksınız . Bu dönemde kendinizi geliştirebilirsiniz . Perşembe gününe dikkat etmelisiniz . Yakın çevre bağlantılarınız ve sorumluluklarınız sizi zorlayabilir . Bu alanlarda tamamlanmamış ve kadersel konularla uğraşabilirsiniz . Kontrolünüzü kaybetmemek için çaba gösterdiğiniz bir hafta olacak . Güzel bir hafta olsun .",
+    "summary": "Ödemelerin ön planda olduğu bir hafta başlıyor sevgili Akrep ve yükselen Akrep ’ ler . 1-7 Temmuz 2019 haftasında Akrep burcunu neler bekliyor ? Astroloji uzmanı Hande Kazanova Akrep burcunu sizler için yorumladı .",
+    "scores": {
+      "relevance": null,
+      "coherence": null,
+      "consistency": null,
+      "fluency": null,
+      "conciseness": null,
+      "quotation_score": null,
+      "overall_score": null,
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    }
+  },
+  {
+    "id": 116,
+    "article": "Datça Palamükbükü Verici tepesinde akşam saatlerinde elektrik tellerinden çıktığı öne sürülen makilik yangını ekiplerin müdahalene rağmen şiddetli rüzgâr nedeniyle kontrol altına alınamadı . Yangına gündüz saatlerinde havadan iki helikopter ile müdahale edilirken , havanın kararması sonrası yer ekipleri alevleri kontrol altına almak için çalışıyor . Tamamen makilik alanda ilerleyen yangın rüzgar ile yönünü denize çevirdi . Muğla orman Bölge Müdürlüğü ekiplerinin yanı sıra , Muğla Büyükşehir Belediyesinden 10 itfaiye aracı , orman bölge müdürlüğünün 13 arazözü ile birlikte 100 ’ e yakın orman ve itfaiye personeli çalışmalarını sürdürüyor . Bölge halkı da ekiplere yardımcı oluyor . Verici tepesinden denize doğru ilerleyen yangının Palamütbükü yerleşim birimine sıçramaması için ekipler alevlerin önünü kesmeye çalışıyor . Yangına müdahale eden arazöz ve itfaiyelerin su ihtiyacının karşılanması amacıyla Büyükşehir Belediyesi ’ nin su tankerleri de bölgede bulunuyor .",
+    "summary": "Muğla ’ nın Datça ilçesi Palamutbükü mevkisinde akşam saatlerinde başlayan makilik yangını şiddetli rüzgâr nedeniyle devam ederken , yangının denize doğru ilerlediği öğrenildi .",
+    "scores": {
+      "relevance": 2,
+      "coherence": 3,
+      "consistency": 3,
+      "fluency": 4,
+      "conciseness": 4,
+      "quotation_score": 1,
+      "overall_score": 3
+    }
+  },
+  {
+    "id": 117,
+    "article": "Sonunda yazacağımı baştan belirtmek isterim… Bu ülkede en büyük haksızlığın ‘ günah keçisi ’ gibi Hazine ve Maliye Bakanı Berat Albayrak ’ a yapıldığını düşünüyorum… Bugün Enerji Bakanlığının mükemmel işler yapmasının , enerji alanında geleceğin 50 yılının dahi programlanmasının mimarının Berat Albayrak olduğu , Bakan Fatih Dönmez ’ in aynı çizgiyi devam ettirerek başarıyı sürdürdüğünü söylemek zor değil… Nedense hiç kimse bundan bahsetmez ! Albayrak ’ ın Hazine ve Maliye Bakanlığı döneminin Türkiye ’ nin en önemli krizinin içine düşüldüğü döneme denk gelmesi , en büyük talihsizliği olmuştur… Kim olsa bundan farklı bir şey yapamazdı… Ama bu ülkede algı oluşturma yönteminin önüne geçmek mümkün değil ! * Gelelim konumuza… Türk futbolunun kanayan yarası , futbol kulüpleri için denizin bittiği , her birinin neredeyse kapılarına kilit vurulacak duruma geldiği , Avrupa kupalarına katılma şanslarının ortadan kalktığı dönemde imdada yetişen bir adam… Öyle bir adam ki hem bugünlerini kurtarırken hem de denetim altına aldırarak yarınlarını garantiye alıyor.. O adam ; Hazine ve Maliye Bakanı Berat Albayrak… Trabzonspor ’ un , Galatasaray ’ ın , Fenerbahçe ’ nin , Beşiktaş ’ ın bütün borçlarını bankalar birliği ve TFF ile ‘ Finansal yapılandırma ’ ile işbirliği yaptırarak Türk futbolunda bir miladı oluşturdu… Kendimi Hazine ve Maliye Bakanı Sayın Berat Albayrak ’ ın yerine koyup kendi kendime sordum ... Berat Albayrak gibi bir yetkim olsa böyle bir finansal yapılanmaya cesaret edebilir miydim ? O riski alabilir miydim ? Sanmıyorum ... Mümkün değil… Çok büyük bir kararlılık , çok büyük bir planlama , çok büyük bir strateji , çok büyük bir öngörü , çok büyük güven , çok büyük bir fedakarlık gerektiren ‘ ÇÖZÜM ’ noktasında bir adım atmak şarttı… Şöyle baktığımızda 4 büyük kulübün borcu nerede ise 10 milyar ! Yani iflas ! Böyle bir tabloda , Türkiye ’ de en kötü yönetilen kurumların başında gelen spor kulüplerini dizginlemek , yani tüm futbol ailesini ıslah etmek ve onlara bir şans daha vermek her babayiğidin harcı değildi ! Ama o taşın altına elini öyle bir koydu ki ! Geçtiğimiz yılın sonunda Berat Albayrak ’ ın kulüp başkanlarını bir araya getirerek , “ İflas etmişsiniz ” , “ Sadece kendinizi değil ülke ekonomisini , bankaları ve kurumları da peşinizden getiriyorsunuz ” dediği toplantının üzerinden 7 ay geçti . Hayal denileni gerçekleştirmenin adımını attı… 7 aylık süre zarfında Bankalar Birliği ’ ni harekete geçirdi… Tüm süreçleri düzenledi… Tüm yapılandırmayı planladı… Geleceğin en doğru şekilde normalleşmesi için bir program ortaya koydu… Türkiye Futbol Federasyonu bu yapılanmanın içine dahil edildi , gerekli yasal ve bağlayıcı düzenlemeler için harekete geçti , başkanı ve yönetim kurulu değişmesine rağmen hızlıca tüm adımları atarak nihayete erdirdi… * Futbol ailesini bir araya getirmek , Bankalar Birliği ve TFF ’ yi koordine ederek Türk futbolunun kurtuluş reçetesini hayata geçirmek öyle kolay değil.Güç , irade , kararlılık , bilgi ve iyi niyet olmazsa bu süreçler 10 yıl dahi sürebilirdi . Berat Albayrak 7 ayda bunu başardı ! UEFA nezdinde 4 büyük kulübün itibarını kurtardı… Peşinden milyonları koşturan 4 büyük kulübe hayat verdi… Ve bundan sonrası için de kulüplerin artık istedikleri gibi borçlanamayacakları , istedikleri gibi transfer yapamayacakları , iyi yönetilmeleri açısından açık bir denetime tabi tutu . * Belki İstanbul ’ un 3 kulübü böylesine yüklü borçlarına rağmen ayakta kalabilmek için bir koltuk değnekleri bulabiliyor ! … Ya Trabzonspor… Hani deriz ya ‘ Eti ne budu ne ’ diye ! İçine düşürülen durumdan çıkmak boşa kürek çekmek gibiydi ! O nedenle bu hiç tartışmasız Trabzonspor ’ un geleceği açısından çok ama çok önemli bir karardı ... İki yıl önce dibe vurmuş , batmış bir kulübün kurtuluşu demekti ... Berat Albayrak ’ ın Trabzonspor sevgisi tartışılabilir mi ? Baba ocağını sahipsiz bırakabilir miydi ? Asla… Belki de Berat Albayrak'ın Trabzonspor sevgisi sayesinde İstanbul takımları da ekonomik olarak kurtuluşa imza attı… Öyle de oldu… Bence bu kararın arkasında Albayrak ’ ın büyük Trabzonspor sevgisi var… Hem de karşılıksız ... Hiç ‘ Ben şunu yaptım ’ dediğini duydunuz mu ? Trabzon sporluluğunu hiç gizlemedi ! .. Sadece bugün değil son dönemlerde her zaman Trabzonspor ’ un yanında oldu… Sadri Şener , İbrahim Hacıosmanoğlu , Muharrem Usta gibi isimlerin hepsine destek verdi.Ama her biri bu desteği hor kullanıp Trabzonspor ’ u iflas eder hale getirdi ... O yine de Trabzonspor ’ a sırtını dönmedi ... “ Yeter artık ne yaparsanız yapın . Bana ne ” demedi ! Trabzon spor ; yıllardır süregelen müsriflik ve feshettiği futbolcularına , teknik direktörlere , yardımcılarına , menajerlere , Türkiye ’ deki ve yurt dışındaki birçok kulübe olan borcu yüzünden deyim yerindeyse uçan kuşa borcu olan bir kulüptü.. Kulübe inanın su alınamıyordu ! Berat Albayrak ’ ın bu hamlesiyle UEFA ’ ya gidememe , ( Dozer ) Cemil Usta Sezonu ’ nda sahaya çıkamama tehlikesiyle karşı karşıya olan Trabzon spor ’ un , önceki gün acil olarak 200 milyon liralık ödeme yaptığını biliyor musunuz ? Toplamda 860 milyon liralık yapılandırmayla borçlarını temizledi . Bunu kim yapabilir ki ? O yaptı… Unutmayın ki Trabzonspor ’ a bağlılığını , Trabzonspor ’ a olan sevgi ve saygısını her şeyin önüne koyabilen bir isim Berat Albayrak ... Ailece böyle… Geçtiğimiz günlerde baba evini ziyaret eden Bakan Berat Albayrak ’ ın fotoğraflarına bir bakın ... Baba Sadık Albayrak ’ ın koltuğunda Trabzonspor battaniyesi duruyor . Duvarlarını bordo mavi renkler süslüyor . Trabzonspor ’ un her maçında , her anında yanında ... Öyle bir sevgi ki tribünde heyecandan yerinde duramayan hata gördüğü an yerinden fırlayıp tepkisini koyacak kadar bir büyük Trabzonspor sevdalısı ... Oğulları Bakan Berat Albayrak ve Serhat Albayrak da bu sevgiyle , bu aşkla , bu tutkuyla büyümüş ... Albayrak ailesi Trabzonspor için büyük bir şans ... * Türk futbolunda bir miladın başlangıcı olan ve Trabzonspor ’ u Avrupa kupalarına katılamama tehlikesinden kurtaran bu yapılandırma için herkesin ama herkesin teşekkür etmesi boynunun borcudur… Yazdıklarımın tam karşılığını Trabzonspor Kulübü Başkanı Ahmet Ağaoğlu verdi aslında . Aradım kendisini , “ Hayırlı olsun ” dedim . Şu cümleleri aktardı bana ... “ Sayın Bakanımız Berat Albayrak Trabzonspor ’ u büyük bir darboğazın ortasından çekip aldı . Düşünün önceki gün yani cuma günü , futbol ailesine olan borçlarımız için ‘ temiz kağıdı ’ alarak UEFA ’ ya gönderdik . Bunun toplamı yaklaşık 200 milyon lira . Bu parayı hiçbir şekilde bulmamız mümkün değildi . Yapılandırmada ısrar eden , olması için bütün gücüyle mücadele eden ve bizi bu girdaptan kurtaran Bakanımız Berat Albayrak ’ a camiam ve Türk futbolu adına sonsuz teşekkürlerimi sunuyorum . Çünkü 4 büyük kulüp nefes aldı ” dedi . Sanırım aynı mesajları Fenerbahçe Başkanı Ali Koç , Beşiktaş Başkanı Fikret Orman , Galatasaray Başkanı Mustafa Cengiz ve bu yapılandırmadan yararlanacak bütün kulüp başkanları da vererek Bakan Albayrak ’ a teşekkür edecektir ... Tabi ki Bakan Albayrak ’ ın bu projesine tam destek veren , bu kararların altına imza atarak yolu açan Cumhurbaşkanı Recep Tayyip Erdoğan ’ a da kulüpler minnettardır ... Çünkü Bakan Albayrak ’ a “ Gereğini yapın ” diyerek son sözü o söyledi ... * Diyeceğim şu ki ; Herkesin her kulübün artık bu son şansı çok iyi değerlendirmesi gerekir… İnşallah akıllanmışlardır ... İnşallah ülke sporunun yarınları adına atılan bu adımın değerini anlamışlardır ... Har vurup harman savurma dönemi bitmiştir ! Berat Albayrak adeta devrim yapmıştır.. * TFF , sezonluk denetlemeden sonra her takıma harcama limiti getirecek . Yürürlüğe giren talimatnameyle Süper Lig kulüpleri 2020-2021 futbol sezonundan itibaren 1 Haziran-31 Mayıs özel hesap dönemine geçecek . Takım harcama limitleri ise 2019-2020 sezonu için TFF tarafından 2 Eylül 2019 ’ da duyurulacak . Kulüpler ara transfer döneminde bu limite uymak zorunda kalacak . Kulüpler , bağımsız denetim şirketlerince incelenecek . TFF de yıl boyu kulüpleri denetleyecek . TFF , yeni talimatnameyle kulüplere transfer yasağı ve kadro sınırlaması cezaları da verebilecek.. Türk futbolunda yönetim anlayışlarında hiç bir şey eskisi gibi olmayacak . .. Bunun önünü bu ülkenin Hazine ve Maliye Bakanının açması bir milat bir devrimdir.. Kısacası Berat Albayrak hem kulüpleri kurtararak hem de denetim altına aldırarak Türk futbolunda devrim gibi bir kararın altına sadece elini değil bütün bedenini koydu… Bir Trabzonlu bir Trabzon sporlu olarak ‘ Helal olsun ’ diyorum… Bütün kulüplerimiz hiç bir kişisel beklenti olmadan ' Ben yaptım ' demeden bütün riskleri alan Sayın Bakanı inşallah mahcup etmez…",
+    "summary": "Türk futbolunun kanayan yarası , futbol kulüpleri için denizin bittiği , her birinin neredeyse kapılarına kilit vurulacak duruma geldiği , Avrupa kupalarına katılma şanslarının ortadan kalktığı dönemde imdada yetişen bir adam…Berat Albayrak",
+    "scores": {
+      "relevance": null,
+      "coherence": null,
+      "consistency": null,
+      "fluency": null,
+      "conciseness": null,
+      "quotation_score": null,
+      "overall_score": null,
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    }
+  },
+  {
+    "id": 118,
+    "article": "Türkiye'nin Doğu Akdeniz'de yürüttüğü sismik araştırma faaliyetlerine yönelik çalışmaları devam ediyor . Yavuz Sondaj Gemisi'nin işler hale gelmesiyle Doğu Akdeniz ' e gönderilen gemiye Barbaros Fırkateyni eşlik ediyor . Bakanlığın sosyal medya hesabından görüntüler paylaşılarak , `` Sondaj çalışması için Doğu Akdeniz ’ e intikal etmekte olan Yavuz Sondaj Gemimize , TCG Barbaros Fırkateynimiz refakat etmeye devam ediyor '' denildi .",
+    "summary": "Milli Savunma Bakanlığı , Doğu Akdeniz ’ e intikal etmekte olan Yavuz Sondaj gemisine Barbaros Fırkateyni'nin eşlik etmesi ile ilgili görüntüleri paylaştı .",
+    "scores": {
+      "relevance": 5,
+      "coherence": 5,
+      "consistency": 5,
+      "fluency": 5,
+      "conciseness": 5,
+      "quotation_score": 4,
+      "overall_score": 5
+    }
+  },
+  {
+    "id": 119,
+    "article": "Kıbrıs Türk Emlakçılar Birliği ile Mersin Tüm Emlakçılar Meslek Esnaf Odası ’ nın düzenlediği 3 . Emlakçılık Eğitim Semineri ’ nin açılışına katılan Başbakan Ersin Tatar , çarpıcı açıklamalar yaptı . Girne ’ de yer alan seminerin açılışında konuşan Tatar , KKTC ’ nin bir Türk vatanı olduğunu , o bakımdan bu bölgede istikrarın sağlanması için Türk hükumeti ile iyi ilişkiler içinde çalıştıklarını ve çalışacaklarını vurguladı . Başbakan Tatar , son zamanlarda Doğu Akdeniz ’ de yaşananlara ve Cumhurbaşkanı Recep Tayyip Erdoğan ’ ın yaptığı açıklamalar ve Türk hükumetinin duruşunun , KKTC ’ nin giderek güçlendiğini ortaya koyduğuna işaret etti . `` KKTC'yi güçlendireceğiz '' Son yıllarda bütün ekonomik sıkıntılara rağmen ülkedeki gelişmelerin kendisine umut verdiğini vurgulayan Başbakan Tatar , “ Biz KKTC ’ yi daha da güçlendireceğiz . KKTC ekonomisi geliştikçe , mallar evler , daireler , her türlü yatırım değer bulacaktır . KKTC ’ ye yatırıma devam edin ” dedi . Tapular devletin “ Türk malı- Rum malı , bunu edebiyatınızdan silin . Burası KKTC ’ dir , arkanızda devlet vardır , arkasında Türklük vardır , arkasında yüreğimiz vardır ” şeklinde konuşan Başbakan Ersin Tatar , KKTC ’ de tapuların devletin tapusu olduğunu , devletin tapusunun da sonuna kadar geçerli olduğunu vurguladı . `` Kapalı Maraş Türk tapusu '' Kapalı Maraş açıklamalarını yaptıktan sonra Türkiye ’ den üst makamlardan bazı kişilerin KKTC ’ ye geldiğini , gerçekten de Maraş ’ ın Türk tapusu olduğunu ilk defa burada söylemek istediğini vurgulayan Tatar , konuşmasını şöyle sürdürdü : “ Öyle belgeler vardır ki , hepsi Türk malıdır . Hepsi Osmanlı malıdır . 1878 ’ de ada İngiliz ’ e kiralandıktan sonra , İngiliz ’ in altında imzası bulunan belgelere rağmen ki bütün Vakıf malları hukuk temelinde muhafaza edilecektir diye , ona rağmen mallarımızı mülklerimizi satıp talan etmişler , Rum ’ a peşkeş çekmişler , ondan sonra Maraş ’ ı yapmışlar . Toprak bizimdir . Vakıf malıdır , bunu bütün Türkiye biliyor . Bütün Osmanlı kayıtlarında böyledir . Dolayısıyla bütün malımıza sahip çıkacağız. ” Birlik ve beraberlik içinde olunması gerektiğini vurgulayan Başbakan Ersin Tatar , “ Gerçekleri bilerek siyaseti geliştirmek durumundayız ” dedi . `` Bize güvenin '' “ KKTC ’ ye güvenin ” mesajı veren Başbakan Tatar , Rum tarafı ve dünyanın başka yerlerine bakıldığında , KKTC ’ nin dünyanın en güvenli yerlerinden biri olduğunu söyledi . KKTC gibi bir yerde yaşamanın bir ayrıcalık olduğunu ifade eden Başbakan Tatar , KKTC ’ nin yolları , yatırımları , limanları , hava limanları , bütün doğal güzellikleri ile gelişeceğini ve yatırım yapılacak bir yer olduğunu kaydetti . Başbakan Tatar , KKTC ’ ye yatırım yapılmaya devam edilmesi gerektiğini sözlerine ekledi . Açıklamaların ardından Osmanlı geleneklerine göre bir ülkede en iyi sanatkara giydirilen Ahi Baba Paltosu Başbakan Ersin Tatar ’ a giydirildi .",
+    "summary": "KKTC Başbakanı Ersin Tatar , `` Mallarımızı mülklerimizi satıp talan etmişler , Rum ’ a peşkeş çekmişler , ondan sonra Maraş ’ ı yapmışlar . Toprak bizimdir . Vakıf malıdır '' dedi .",
+    "scores": {
+      "relevance": 2,
+      "coherence": 3,
+      "consistency": 4,
+      "fluency": 4,
+      "conciseness": 2,
+      "quotation_score": 3,
+      "overall_score": 3
+    }
+  },
+  {
+    "id": 120,
+    "article": "ABD Başkanı Donald Trump , Japonya'da düzenlenen G-20 zirvesi sırasında Çin Devlet Başkanı Şi Jinping ile yaptığı görüşme sonrasında iki ülkenin ticaret ile ilgili sorunlarını aşması için müzakere masasına geri döneceğini açıkladı . Kritik Huawei kararı Dünyanın merakla takip ettiği görüşmenin ardından , ABD Başkanı Donald Trump , yaptığı açıklamada Amerika merkezli şirketlerin Huawei ’ ye ekipman satmaya devam edebileceğini açıkladı . Trump'ın Huawei'ye yeşil ışık yakması , ABD ile Çin arasındaki yeni bir başlangık olarak yorumlandı . Huaweı böyle duyurdu : U dönüşü Huawei ise resmi Twitter hesaplarından birinden , U dönüşü ? Trump Huawei'nin Amerikan teknolojisi alabileceğini duyurdu ! '' açıklamasını yaptı .",
+    "summary": "Dünyanın günlerce konuştuğu krizde flaş gelişmeler yaşandı . ABD Başkanı Trump , Japonya'da düzenlenen G-20 zirvesinde Çin Devlet Başkanı Şi Jinping ile görüştü . Görüşme sonrası açıklamada bulunan Trump , Amerikan şirketlerinin Çinli telekom devi Huawei'ye donanım satabilmesinin önünü açacağını söyledi . Bu kararın ardından , Trump'ın kararını Huawei'in resmi hesabı ilginç bir şekilde duyurdu .",
+    "scores": {
+      "relevance": 5,
+      "coherence": 5,
+      "consistency": 5,
+      "fluency": 5,
+      "conciseness": 5,
+      "quotation_score": 4,
+      "overall_score": 5
+    }
+  },
+  {
+    "id": 121,
+    "article": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş , Ankara Kent Konseyi Genel Kurulu toplantısı öncesi basın mensuplarının sorularını yanıtladı . Başkan Yavaş , şirket yöneticilerinin atanması ve şirketlerin yönetimine ilişkin yetki tartışmalarıyla ilgili , `` Bunlar siyasi kararlar . Ticaret İl Sicil Müdürlüğü ’ ne görüş sorulduğu zaman , 'yetki belediye başkanınındır ' demişti . Kanun açık , burada yetki tartışması falan yaşanmıyor . Duyuyorum ki ; bu yetkinin belediye meclisi üyelerine verilmesi için kanun taslağı hazırlıyorlar . Bu taslak hazırlandığına göre demek ki yetki belediye başkanında . Bu yetki yıllardır belediye başkanında '' dedi . 'Herkes demokrasiye saygı duymalı ' Başkan Yavaş , 2 gün önce bir gazetede AŞTİ ile ilgili belediyeyi eleştiren bir yazı çıktığını , yazıdaki eleştirilerin haklı olduğunu belirterek , `` Oranın yönetimi BUGSAŞ'ta , henüz bir genel kurul yapmadık . Peki biz genel kurul yapmadığımıza göre aksaklıklardan kim sorumlu ? Eski yönetim sorumlu . Demek ki yetki belediye meclis üyelerinde , muhalif olanlar yönetime geçerse oradaki aksaklık belediye başkanına kalacak . Cumhurbaşkanı ’ nın sürekli söylediği 'davul başkasının , tokmak başkasının ' dediği şey budur . Hizmet iyi yapılmadığı için para vermediğim zaman oradaki işçiler paralarını alamayacak . Bizi 'işçilerin ikramiyelerini ödemedi ' diye eleştiriyorlar . O işçiler şirketlerin işçileri , ödesin o zaman yönetim kurulu üyeleri . O yüzden bu konuşmalar ve hazırlandığı söylenen yeni kanun tasarısı hep krizlere yol açacak şeylerdir . Bence herkes demokrasiye saygı duymalı , yıllardır nasıl yapılıyorsa öyle devam etmeli '' diye konuştu . 'Şeffaf yönetim olsun istiyoruz ' Yavaş , Halk Ekmek'teki usulsüzlük iddialarıyla ilgili soruya ise , `` Soruşturmanın sonucunu göreceğiz . Ona göre bununla ilgili yasal işlem , hem cezai , hem hukuki yoldan devam edecek . Bu tür şeyler tüm şirketlerde var . Zaman içerisinde açıklayacağız bunları . Biz istiyoruz ki şeffaf bir yönetim olsun . Belediyelerle anılan yolsuzluk iddialarının hepsinin kökünü kazıyıp , ortadan kaldıracağız . Bunu amaçlıyoruz '' dedi . Başkan Yavaş , belediye deposunda binlerce kahve fincanı olduğu iddialarıyla ilgili de , `` Henüz haberim yok ; ama basın mensupları olarak mutlaka bir depolarımızı gezin . Oradaki hali görmenizi isterim . Envantere kayıtlı olmayan çok şey ver . Neden alınmış belli değil . Bunları da size açıklayacağız '' diye konuştu . 'Umarım Ankara ’ da yaşananlar İstanbul'da yaşanmaz ' Yavaş , Ekrem İmamoğlu'nun İstanbul Büyükşehir Belediye Başkanlığı seçimini kazanmasıyla ilgili ise , `` Hayırlı olsun dedik kendisine . Biz de çalışmalarda yardımcı olmak için iki defa gittik kendisine . Başarılı olacaktır , inanıyorum . Umarım Ankara'da yaşananlar , orada yaşanmaz . Örneğin , Ankara Büyükşehir Belediyesi , Şehir Hastahaneleri ’ nin yollarını yapmak için hükümet ile anlaşmış ve 800 milyon liralık yol yapmış . Bunun yaklaşık 200 milyon lirasını bir şekilde anlaşmışlar , bizim 600 milyon liralık alacağımız var . Bunun karşılığında bir protokol yaparak 'Ankara'daki maliye hazinelerini satın , buradan paranızı alın ' demişler . Biz de yakın zamanda asfalt ve şehir geçiş ihalesi yapacağız , bu Yaşamkent tarafındaki sıkışıklığı ortadan kaldıracağız . Bu ihaleleri bu yıl bitirmek için bu gayrimenkulleri satmak için bir ilan verdik . 2 gün önce Maliye Bakanlığı'ndan gelen bir yazı ile bu gayrimenkullerin hepsinin TOKİ ’ ye devredildiği ortaya çıktı . Bundan ben zarar görmüyorum , Ankara halkı zarar görüyor . Bunu da Ankaralıların vicdanına şimdiden havale ediyorum . ''",
+    "summary": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş , şirket yöneticilerinin atanmasındaki yetki tartışmalarıyla ilgili , `` Kanun açık , burada yetki tartışması falan yaşanmıyor . Duyuyorum ki ; bu yetkinin belediye meclisi üyelerine verilmesi için kanun taslağı hazırlıyorlar . Bu taslak hazırlandığına göre demek ki yetki belediye başkanında '' dedi .",
+    "scores": {
+      "relevance": 2,
+      "coherence": 3,
+      "consistency": 4,
+      "fluency": 4,
+      "conciseness": 3,
+      "quotation_score": 4,
+      "overall_score": 3
+    }
+  },
+  {
+    "id": 122,
+    "article": "İzlanda Dışişleri Bakanlığı , Avrupa Şampiyonası Elemeleri H Grubu'nda Reykjavik'te oynanacak karşılaşma için 9 Haziran'da Keflavik Havalimanı'na inen Milli Takım oyuncuları ile beraberlerindeki kafilenin İzlandalı yetkililer tarafından sıkı bir güvenlik kontrolüne maruz bırakılmasının ardından yaşanan gelişmelere ilişkin , ülkenin resmi haber ajansı RUV ' a 23 Haziran'da yeni bir açıklama yaptı . RUV'un internet sayfasında yer alan habere göre , daha önceki açıklamalarında yer alan `` zamanında bildirimde bulunulmadığı '' iddiasından kendi beyanıyla dönen İzlanda Dışişleri Bakanlığı , Türkiye'nin Oslo Büyükelçiliğinin A Milli Futbol Takımı'nın İzlanda'ya gidişine dair gerekli başvuruları 16 Mayıs'ta Bakanlığa gönderdiği nota ile başlattığını aktardı . Haberde ayrıca söz konusu notanın alındığının İzlanda Dışişleri Bakanlığı tarafından 27 Mayıs'ta teyit edildiği ve taleplerin ilgili İzlanda makamlarına yönlendirildiği bilgisine de yer verildi . `` 3 hafta öncesinden '' Böylece Türkiye'nin Oslo Büyükelçiliği ile İzlanda Dışişleri Bakanlığı arasındaki irtibatın , bu bakanlığın iddiasının aksine `` uçağın varışından birkaç saat önce '' değil , 3 hafta öncesinden başladığı ortaya çıktı . Keflavik Havalimanı'na inen Milli Takım kafilesinin İzlandalı yetkililer tarafından sıkı bir güvenlik kontrolüne maruz bırakılmasının ardından İzlanda Dışişleri Bakanlığının 10-11 Haziran tarihlerinde yaptığı açıklamalarda , Türkiye'nin Oslo Büyükelçiliğinin `` zamanında bildirimde bulunmadığı '' ve `` hızlı geçiş talebinin kafilenin varışından yalnızca birkaç saat önce iletildiği iddia edilmişti . Ancak Türkiye'nin Oslo Büyükelçiliği , kafilenin gümrük ve sınır kontrolünden hızlı geçişini talep eden başvuruyu zamanında yapmış ve iki ülke kurumları arasında yapılan yazışmaların yeniden ibraz edilmesi suretiyle İzlanda makamlarının dikkatine getirmişti . Büyükelçilik bu nedenle İzlanda Dışişleri Bakanlığından yapılan açıklamaların da düzeltilmesini talep etmişti .",
+    "summary": "İzlanda Dışişleri Bakanlığı tarafından yapılan açıklama , A Milli Futbol Takımı'nın 2020 Avrupa Şampiyonası Elemeleri için Reykjavik'te oynayacağı maç öncesi `` Türkiye'nin Oslo Büyükelçiliğinin zamanında bildirimde bulunmadığı '' iddiasının gerçeği yansıtmadığını , işlemlerin 3 hafta öncesinde başlatıldığını ortaya koydu .",
+    "scores": {
+      "relevance": 5,
+      "coherence": 5,
+      "consistency": 5,
+      "fluency": 5,
+      "conciseness": 5,
+      "quotation_score": 4,
+      "overall_score": 5
+    }
+  },
+  {
+    "id": 123,
+    "article": "İçişleri Bakanı Süleyman Soylu , `` Bir vekil ... 44 kilo patlayıcı ... Polise ürkütücü iftira ... Kuran ’ ı Kerim ’ i istismar . Yaptıkları mizansen ve gerçekler videoda '' ifadeleriyle bir video paylaştı . 44 kilo 130 gram patlayıcının ele geçirildiği operasyonla ilgili HDP Milletvekili Ayşe Sürücü'nün sosyal medya hesabından paylaşılan görüntüler üzerine Bakan Soylu meselenin gerçekte ne olduğunu gösteren bir video paylaştı . HDP Şanlıurfa Milletvekili Ayşe Sürücü , `` 16 yaşındaki Zilanı ve tüm aileyi dama çıkarıp kafalarına silah dayıyor , Zilan ’ ın çığlıklarını Yaylak , Bozova ve Halfeti ’ den biliyoruz ! Ak Parti ’ li Bldyenin kepçesiyle avluyu yıkıp , meyve ağaçlarını sökerek evi darmadağın ediyorlar . KURAN-I KERİM ’ e bile saygıları yok evi basan polisin ! '' diye yazmıştı . Olayın aslının hiç de anlatıldığı gibi olmadığı İçişleri Bakanı Süleyman Soylu'nun yaptığı paylaşımla gözler önüne serildi",
+    "summary": "ŞANLIURFA'da polisin terör örgütü PKK/KCK'ya yönelik düzenlediği ve 44 kilo 130 gram patlayıcının ele geçirildiği operasyonla ilgili hayrete düşüren bir olay yaşandı . HDP Milletvekili Ayşe Sürücü'nün sosyal medya hesabından paylaştığı ve emniyet güçlerini karalama amacı güden mizansen videosuna İçişleri Bakanı Süleyman Soylu gerçek görüntüleri içeren bir paylaşımla cevap verdi .",
+    "scores": {
+      "relevance": null,
+      "coherence": null,
+      "consistency": null,
+      "fluency": null,
+      "conciseness": null,
+      "quotation_score": null,
+      "overall_score": null,
+      "error": "Error code: 400 - {'error': {'message': \"The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766\", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}"
+    }
+  },
+  {
+    "id": 124,
+    "article": "Olay , Kazakistan ’ ın Atırav şehrindeki Tengiz petrol sahasında meydana geldi . Edinilen bilgiye göre , Kazak işçilerle Arap işçiler arasında belirli konularda problemler yaşanıyordu . İddiaya göre , en son bir Arap işçinin Kazak bir kız ile uygunsuz fotoğraf paylaşması olaylarının fitilinin ateşlenmesine neden oldu . Bu durum üzerine Kazak işçilerin şantiyede Arap işçilerin peşine düşerek onları yakaladıkları yerlerde dövmeye başladığı , linç girişiminde bulunduğu belirtildi . Yaşanan kavganın dehşete düşüren görüntüleri sosyal medyada hızla yayılırken petrol sahasının yetkililerinden konuya ilişkin açıklama yapılmadı . Yapılan haberlerde bölgeye güvenlik ekiplerinin yönlendirildiği ve olay hakkında soruşturma başlatıldığı kaydedildi . Atırav Belediyesinden konuya ilişkin yapılan açıklamada , olayın sabah saat 11.00 sularında gerçekleştiği Sohsolited Contracting Endihering and Prourement S. A. L Offshore şirketi çalışanları arasında ve Libya vatandaşı Eli Daoud'un bir kızla uygunsuz bir fotoğraf paylaşması sonucu yaşandığı doğrulandı .",
+    "summary": "Kazakistan ’ ın Atırav şehrindeki bir petrol sahasında Kazak işçiler Arap işçilere linç girişiminde bulundu . Dehşete düşüren olayda yumruklar tekmeler havada uçuştu , o korkunç anlar cep telefonu kameralarına yansıdı .",
+    "scores": {
+      "relevance": null,
+      "coherence": null,
+      "consistency": null,
+      "fluency": null,
+      "conciseness": null,
+      "quotation_score": null,
+      "overall_score": null,
+      "error": "Error code: 400 - {'error': {'message': \"The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766\", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}"
+    }
+  },
+  {
+    "id": 125,
+    "article": "Suriye rejimi Türk kontrol noktalarına ikinci kez saldırı düzenledi . 10 numaralı gözlem noktasına top atışlarının yapıldığı belirtildi . Saldırıda herhangi bir Türk unsurunun isabet almadığı açıklandı . Milli Savunma Bakanlığı konuya ilşikin açıklama yaptı . Açıklamada `` Suriye rejim güçlerinin İdlib Gerginliği Azaltma Bölgesinde kontrol ettiği bölgeden , 10 numaralı Gözlem Noktası bölgesine bugün üç adet top atışı yapılmıştır . Yapılan saldırıda personel ve malzeme zayiatı meydana gelmemiştir . Top atışları esnasında sahadaki temsilcileri vasıtasıyla Rusya nezdinde derhal gerekli girişimlerde bulunulması üzerine rejim tarafından yapılan atışlar sonlanmıştır . Atışların devam etmesi halinde , gerekli karşılık verilecek şekilde hazırlıklar tamamlanmıştır . Durum yakından takip edilmektedir . '' ifadelerine yer verildi .",
+    "summary": "Suriye rejim güçlerinin İdlib Gerginliği Azaltma Bölgesinde kontrol ettiği bölgeden , 10 numaralı Gözlem Noktası bölgesine bugün üç adet top atışı gerçekleştirdi .",
+    "scores": {
+      "relevance": null,
+      "coherence": null,
+      "consistency": null,
+      "fluency": null,
+      "conciseness": null,
+      "quotation_score": null,
+      "overall_score": null,
+      "error": "Error code: 400 - {'error': {'message': \"The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766\", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}"
+    }
+  },
+  {
+    "id": 126,
+    "article": "Erdoğan , Twitter hesabından , Japonya'nın Osaka şehrinde düzenlenen ve bugün sona eren G20 Liderler Zirvesi ve bu zirve kapsamında yaptığı ikili görüşmelere ilişkin değerlendirmelerde bulundu . Zirvenin küresel gündemdeki konuların etraflıca ele alındığı , verimli , son derece başarılı bir toplantı olduğunu belirten Erdoğan , `` Terörle mücadeleden küresel ekonomiye , inovasyondan , dijitalleşmeden sağlık ve çevreye kadar birçok meselede Türkiye'nin yaptıklarını ve bakış açılarını , gerek çoklu gerekse ikili temaslarımızda aktarma fırsatı bulduk . '' bilgisini paylaştı . Cumhurbaşkanı Erdoğan , ABD Başkanı Donald Trump , Rusya Devlet Başkanı Vladimir Putin , Almanya Başbakanı Angela Merkel ve İngiltere Başbakanı Theresa May ile gerçekleştirdiği görüşmelere ilişkin şunları kaydetti : `` ABD Başkanı @ realDonaldTrump ile ülkelerimiz arasındaki siyasi , askeri , ticari ilişkilerin gelişimine büyük katkı sağlayacağına inandığım , stratejik ortaklığımıza güçlü bir vurgunun yapıldığı çok verimli bir ikili görüşme gerçekleştirdik . Rusya Devlet Başkanı Putin ile yapmış olduğumuz görüşmede tüm alanlarda büyüyen ve gelişen Türkiye-Rusya ilişkilerini daha da ileri ve üst seviyeye getirmek için çabaları sürdürme konusunda mutabık kaldık . Fransa Cumhurbaşkanı @ EmmanuelMacron ile Türkiye-Fransa ilişkilerine dair birçok konuyu masaya yatırdık , ülkelerimiz arasındaki meselelerin çözümüne ve ilişkilerimizi geliştirmeye yönelik ortak bir bakış açısına sahip olduğumuzu teyit ettik . Almanya Şansölyesi Merkel ile gerçekleştirdiğimiz görüşmede Türk-Alman ilişkilerinin geldiği seviyenin nasıl daha ileriye taşınabileceği konusunda önemli istişarelerde bulunduk . Birleşik Krallık Başbakanı May ile başta Doğu Akdeniz olmak üzere bölgesel ve küresel meseleleri , ikili ticari ve siyasi ilişkilerimizi ele aldık ; çözüm odaklı bir anlayışta mutabık kaldığımızı müşahede ettik . '' Believing the G20 Summit , in which we discussed pressing issues on the global agenda , has been beneficial for our countries , I hope that this event will serve the good of mankind . I would like to congratulate Prime Minister @ AbeShinzo and Japan for hosting a successful summit . pic.twitter.com/9tMxYQaqFY — Recep Tayyip Erdoğan ( @ RTErdogan ) 29 Haziran 2019 `` Zirvenin tüm insanlık için hayırlara vesile olmasını diliyorum '' Cumhurbaşkanı Erdoğan , İspanya Başbakanı Pedro Sanchez ' i kabulünde de Türkiye-İspanya ilişkilerinin ilerlemesi ve istenen seviyeye gelmesi için karşılıklı çabaların ele alındığını aktardı . Hindistan Başbakanı Narendra Modi ile iki ülke arasındaki ilişkilerin değerlendirildiği çok verimli bir ikili görüşme gerçekleştirdiklerini dostane ilişkilerin , ticari ortaklıkların bu görüşme ile daha da gelişeceğine gönülden inançlarını dile getirdiklerini bildiren Erdoğan , şöyle devam etti : `` Endonezya Devlet Başkanı @ jokowi ile de ülkelerimiz arasındaki kuvvetli bağlara vurgu yaparak , ilişkilerimizi güçlendirme isteğimizin ve Endonezya halkının her zaman yanında olduğumuzun altını çizdik . Küresel gündemin öne çıkan konularını ele aldığımız G-20 Zirvesi'nin ülkelerimiz için faydalı geçtiğine inanıyor , zirvenin tüm insanlık için hayırlara vesile olmasını diliyorum . Başbakan @ AbeShinzo şahsında , zirveyi başarıyla gerçekleştiren Japonya'yı tebrik ediyorum . '' G20 Liderler Zirvesi'ne ilişkin Türkçenin yanı sıra İngilizce , Almanca , Fransızca , Rusça , İspanyolca , Hintçe de paylaşımda bulunan Cumhurbaşkanı Erdoğan , ayrıca liderlerle görüşmelerinden fotoğraflara yer verdi .",
+    "summary": "Türkiye Cumhurbaşkanı Recep Tayyip Erdoğan , Japonya'nın ev sahipliğinde gerçekleşen G20 2019 Osaka Zirvesi'nin küresel gündemdeki konuların etraflıca ele alındığı , verimli , son derece başarılı bir toplantı olduğunu belirtti .",
+    "scores": {
+      "relevance": 3,
+      "coherence": 4,
+      "consistency": 4,
+      "fluency": 5,
+      "conciseness": 4,
+      "quotation_score": 2,
+      "overall_score": 4
+    }
+  },
+  {
+    "id": 127,
+    "article": "Haftaya umutlu ve iyimser etkilerle başlıyorsunuz sevgili Terazi ve yükselen Terazi ’ ler . Sizin için çok önemli haftalardan bir tanesi . Salı günü Yengeç Burcu ’ nda bir Tutulma gerçekleşecek . Bu Tutulma sizin kariyer ve iş alanlarınızda oluşacak . Aile bağlantıları ve eşinizin ailesi ile ilgili konular hızlanabilir . Toplum önünde kendinizi ve yaptıklarınızı kabul ettireceğiniz bir dönem olacak . Bunun için sıkı çalışmaya hazır olun . Mars , Aslan Burcu ’ na geçecek . Sosyal çevre bağlantılarınız hızlanıyor . Arkadaşlarınızla daha fazla vakit geçireceksiniz . Organizasyon ve aktivitelerde ön planda olmak ve diğer insanları yönetmek isteyebilirsiniz . Bu dönem içerisinde insanları yönlendirmemeye özen gösterin . Çarşamba günü Venüs de Yengeç Burcu ’ na geçecek . Kuracağınız doğru ve güzel bağlantılarla patronlarınızın dikkatini çekebileceğiniz bir dönem . Bu süreç içerisinde bağlantılarınızı kuvvetlendireceksiniz . Perşembe günü ev ve aile alanlarında kendinizi yetersiz hissedebilirsiniz . Güzel bir hafta olsun .",
+    "summary": "Astroloji uzmanı Hande Kazanova Terazi burcunu sizler için yorumladı . 1-7 temmuz 2019 haftasında Terazi burcunu neler bekliyor ? Sizin için çok önemli haftalardan bir tanesi . Salı günü Yengeç Burcu ’ nda bir Tutulma gerçekleşecek .",
+    "scores": {
+      "relevance": 3,
+      "coherence": 3,
+      "consistency": 4,
+      "fluency": 4,
+      "conciseness": 3,
+      "quotation_score": 3,
+      "overall_score": 3
+    }
+  },
+  {
+    "id": 128,
+    "article": "Olay , Kazakistan ’ ın Atırav şehrindeki Tengiz petrol sahasında meydana geldi . Edinilen bilgiye göre , Kazak işçilerle Arap işçiler arasında belirli konularda problemler yaşanıyordu . İddiaya göre , en son bir Arap işçinin Kazak bir kız ile uygunsuz fotoğraf paylaşması olaylarının fitilinin ateşlenmesine neden oldu . Bu durum üzerine Kazak işçilerin şantiyede Arap işçilerin peşine düşerek onları yakaladıkları yerlerde dövmeye başladığı , linç girişiminde bulunduğu belirtildi . Yaşanan kavganın dehşete düşüren görüntüleri sosyal medyada hızla yayılırken petrol sahasının yetkililerinden konuya ilişkin açıklama yapılmadı . Yapılan haberlerde bölgeye güvenlik ekiplerinin yönlendirildiği ve olay hakkında soruşturma başlatıldığı kaydedildi . Atırav Belediyesinden konuya ilişkin yapılan açıklamada , olayın sabah saat 11.00 sularında gerçekleştiği Sohsolited Contracting Endihering and Prourement S. A. L Offshore şirketi çalışanları arasında ve Libya vatandaşı Eli Daoud'un bir kızla uygunsuz bir fotoğraf paylaşması sonucu yaşandığı doğrulandı .",
+    "summary": "Kazakistan ’ ın Atırav şehrindeki bir petrol sahasında Kazak işçiler Arap işçilere linç girişiminde bulundu . Dehşete düşüren olayda yumruklar tekmeler havada uçuştu , o korkunç anlar cep telefonu kameralarına yansıdı .",
+    "scores": {
+      "relevance": null,
+      "coherence": null,
+      "consistency": null,
+      "fluency": null,
+      "conciseness": null,
+      "quotation_score": null,
+      "overall_score": null,
+      "error": "Error code: 400 - {'error': {'message': \"The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766\", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}"
+    }
+  },
+  {
+    "id": 129,
+    "article": "Valilikten yapılan açıklamada , merkeze bağlı Doğanlı mezrasında dün güvenlik güçleri ile PKK'lı teröristler arasında çatışma çıktığı bildirildi . Açıklamada , `` Çatışmada ağır yaralanan kahraman jandarma personelimiz kaldırıldığı Hakkari Devlet Hastanesinde yapılan tüm müdahalelere rağmen kurtarılamayarak şehit olmuştur . '' ifadesi kullanıldı . Şehit olan asker için yarın Hakkari Dağ ve Komando Tugayı'nda tören düzenleneceği öğrenildi .",
+    "summary": "Hakkari'de güvenlik güçleri ile PKK'lı teröristler arasında çıkan çatışmada bir asker şehit oldu .",
+    "scores": {
+      "relevance": 5,
+      "coherence": 5,
+      "consistency": 5,
+      "fluency": 5,
+      "conciseness": 5,
+      "quotation_score": 3,
+      "overall_score": 5
+    }
+  },
+  {
+    "id": 130,
+    "article": "İngiltere'de Arsenal froması giyen Mesut Özil'in transferiyle ilgili yeni gelişmeler yaşanıyor . Arsenal'de takımın en çok para kazanan futbolcusu olan ve teknik direktör Unai Emery'nin kadroda düşünmediği Mesut Özil'in geleceği merak ediliyor . Geçtiğimiz günlerde Amine Gülşe ile dünya evine giren yıldız futbolcunun Türk takımları tarafından istendiği öne sürüldü . Arsenal'de kalma ihtimali yüksek The Sun'da yer alan habere göre Arsenal , Mesut Özil'in yüksek maaşı nedeniyle futbolcuyu göndermek istiyor . Haftalık 350 bin pound maaşla takımın en çok kazanan futbolcusu olan Mesut Özil için yaz döneminde cazip teklif gelmediği belirtildi . Oyuncunun bonservis bedelini ödeyecek takım olmadığı ve Mesut Özil'in Arsenal'de kalma ihtimalinin yüksek olduğu kaydedildi.Haberde , `` Türk takımları Mesut Özil ' i transfer etmek istiyor ama paraları yok '' yorumu da yapıldı . ( Futbol Arena )",
+    "summary": "İngiliz basını , Arsenal forması giyen Mesut Özil'in Türk takımlarına transferinin zor olduğunu yazdı . Haberde , `` Türk takımları Mesut Özil ' i transfer etmek istiyor ama paraları yok . '' ifadelerine yer verildi .",
+    "scores": {
+      "relevance": 5,
+      "coherence": 5,
+      "consistency": 5,
+      "fluency": 5,
+      "conciseness": 5,
+      "quotation_score": 5,
+      "overall_score": 5
+    }
+  },
+  {
+    "id": 131,
+    "article": "“ Ton balığı yüksek protein , omega 3 , EPA ve DHA yağ asitleri , çinko ve magnezyum içerirken iyot , selenyum ve kolin gibi süper minerallerin de doğal kaynağıdır . Yağ depolarının kısa sürede kalıcı olarak erimesinde , vücut kaslarının korunarak sağlıklı kilo kaybında etkin olan ton balığı , güvenilir olmasının yanı sıra kolayca erişilmesi , ekonomik fiyatı ve pratikliğiyle de eşsiz bir seçim ” dedi .",
+    "summary": "Yazlarının gelmesiyle bir vucüda sahip olmak için yaz diyetleri başlandı . Kısa zamanda kilo vermek istiyorsanız Uzman Diyetisyen Selahattin Dönmez'in 5 günde 3 kilo verdiren ton balığı diyetini deneyebilirsiniz .",
+    "scores": {
+      "relevance": 2,
+      "coherence": 3,
+      "consistency": 2,
+      "fluency": 4,
+      "conciseness": 4,
+      "quotation_score": 1,
+      "overall_score": 2
+    }
+  },
+  {
+    "id": 132,
+    "article": "Çaycuma ilçesindeki 2 dönümlük tarlada , hint keneviri yetiştirildiği ihbarı üzerine , İl Jandarma Komutanlığı ekipleri , harekete geçti . Yenimahalle'deki tarlaya , sabah saatlerinde , drone destekli operasyon düzenleyen ekipler , 22 bin kök Hint keneviri ele geçirdi . Drone ile havadan kaydedilen görüntülerde arsanın etrafının çalı ve mısırlarla kapatılarak Hint kenevirlerinin gizlenmek istendiği belirlendi . Jandarma olayla ilgili 4 şüpheliyi gözaltına alırken , yapılan aramalarda 3 ruhsatsız silah ele geçirildi . 22 bin kök Hint kenevirinin sökülerek imha edileceği belirtilirken , gözaltına alınan 4 şüphelinin jandarmadaki işlemlerinin sürdüğü bildirildi .",
+    "summary": "Zonguldak'ta , jandarma ekiplerince düzenlenen drone destekli uyuşturucu operasyonunda , mısırların arasına gizlenmiş 22 bin kök Hint keneviri ele geçirildi , 4 kişi gözaltına alındı .",
+    "scores": {
+      "relevance": 5,
+      "coherence": 5,
+      "consistency": 5,
+      "fluency": 5,
+      "conciseness": 5,
+      "quotation_score": 5,
+      "overall_score": 5
+    }
+  },
+  {
+    "id": 133,
+    "article": "Olay , Karacabey-Bandırma karayolunun 75. kilometresinde meydana geldi . Karacabey yönünden Bandırma istikametine seyreden Serdar Aksöz sevk ve idaresindeki 16 JV 215 plakalı motosiklet , Kıranlar Mahallesi'nden gelip kavşaktan karşı yöne geçmek isteyen Hasan Ç. idaresindeki 16 FL 761 plakalı hafriyat kamyonu ile çarpıştı . Çarpmanın şiddetiyle motosiklet alev alırken , sürücü Serdar Aksöz olay yerinde feci şekilde can verdi . Olay yerine gelen Karacabey Belediyesi İtfaiye ekipleri alev topuna dönen motosikleti söndürürken , Bursa-Çanakkale karayolu bir süreliğine trafiğe kapatıldı . Motosiklet sürücü Serdar Aksöz'ün cenazesi Karacabey Devlet Hastanesi morguna kaldırıldı.Hafriyat kamyonu sürücüsü Hasan Ç. gözaltına alınırken , Jandarma ve Bölge Trafikekipleri kaza ile ilgili soruşturma başlattı .",
+    "summary": "Bursa'nın Karacabey ilçesinde hafriyat kamyonu ile motosiklet çarpıştı . Kazada motosiklet sürücüsü yanarak feci şekilde can verdi .",
+    "scores": {
+      "relevance": 4,
+      "coherence": 5,
+      "consistency": 5,
+      "fluency": 5,
+      "conciseness": 5,
+      "quotation_score": 3,
+      "overall_score": 4
+    }
+  },
+  {
+    "id": 134,
+    "article": "Arabistan Ligi ekiplerinden Al-Nassr'da forma giyen Giuliano'nun takımdan ayrılması gündeme geldi . Suudi Arabistan Ligi'ndeki yolsuzluk iddiaları günden güne artarken takımların yüksek maaş alan oyuncular ile yolları ayıracağı belirtildi . Galatasaray'ın Mbaye Diagne'yi elinden çıkaramamasının en büyük sebebinin bu yolsuzluk olduğu öne sürülmüştü . Fenerbahçe 12 milyon euroya satmıştı İddialara göre , Fenerbahçe'nin eski yıldızı Giuliano menajerler aracılığı ile Galatasaray ' a önerildi . Sarı-kırmızılılar , Banega transferinde sorun yaşaması halinde Giuliano'nun şartlarını araştıracağı kaydedildi . Brezilyalı futbolcu , Fenerbahçe'den 12 milyon euro bedelle All Nasr ' a transfer olmuştu . Arabistan Ligi'nde 30 maça çıkan Giuliano 8 gol ve 7 asistlik bir performans gösterdi .",
+    "summary": "Fenerbahçe'nin Al-Nassr ' a sattığı Guiliano , menajerler tarafından Galatasaray ' a önerildi . Cim-Bom , Banega ile anlaşamazsa Guiliano'ya yönelecek .",
+    "scores": {
+      "relevance": 4,
+      "coherence": 4,
+      "consistency": 4,
+      "fluency": 5,
+      "conciseness": 5,
+      "quotation_score": 3,
+      "overall_score": 4
+    }
+  },
+  {
+    "id": 135,
+    "article": "D-8 Ekonomi Örgütü'nün 22. yıl dönümü toplantısının ardından Sputnik ' e konuşan Karamollaoğlu `` Türkiye'nin kendi güvenliği için bugünkü şartlarda S-400'ler konusunda kararlı bir tavır sergilemesini doğru buluyoruz . S-400'ler , Türkiye'nin savunma politikasını bütünüyle değiştiren bir sistem '' dedi . `` Türkiye'nin güvenliği daha geniş çapta ele alınmalı '' Karamollaoğlu , Türkiye'nin Rusya'dan S-400 hava savunma sistemlerini almasını desteklediklerini ifade ederek `` Bizim baştan beri ifade ettiğimiz üzere , Türkiye'nin kendi güvenliği için bugünkü şartlarda S-400'ler konusunda kararlı bir tavır sergilemesini , hükümetin bu konudaki duyarlılığını doğru buluyoruz . Ama tabii , S-400 sadece S-400 meselesi değil , Türkiye'nin güvenliği daha geniş çapta ele alınmalı . Aynı zamanda Ortadoğu'da yeni şekillenme girişimleri var . 'Yüzyılın Anlaşması ' gibi fikirler ortaya atılıyor . Arkasından Suriye meselesi halletmek için Amerika , Rusya ve İsrail bir araya geliyor . Biz G20'nin bir üyesi olarak da , Batı ile görüşmeleri önemsiyoruz . Ama bizim bölgemizin şartlarını dikkate alarak , burada haritanın değişmesi , yeniden çizilmesi konusunda herkes üzerine düşen adımları atmalı , mutlaka tedbirleri almalı diye düşünüyoruz '' dedi . `` S-400'ler Türkiye'nin savunma politikasını bütünüyle değiştiren bir sistem '' Saadet Partisi Lideri Karamollaoğlu 'S-400'ler sadece S-400 değildir ' diyerek `` S-400'ler , Türkiye'nin savunma politikasını bütünüyle değiştiren bir sistem . NATO silahlarıyla uyuşmayan , NATO üyelerinden veya NATO'yla irtibatı olan üyelerden herhangi birinden Türkiye'ye karşı bir tecavüz olduğu takdirde kendisini savunma imkanı veren bir sistem . Bunun için 'S-400 sadece S-400 değildir ' diyorum . Bunun arkasından ne gelecek , göreceğiz '' diye ekledi .",
+    "summary": "G20 Zirvesi sonrası konuşan Cumhurbaşkanı Erdoğan'ın `` S-400 işi bitti , yaptırım söz konusu olmayacağını Trump'tan duymuş olduk '' sözlerini yorumlayan Saadet Partisi Lideri Karamollaoğlu , `` Türkiye'nin güvenliği için S-400 konusunda kararlı bir tavır sergilemesini doğru buluyoruz '' dedi .",
+    "scores": {
+      "relevance": 2,
+      "coherence": 3,
+      "consistency": 2,
+      "fluency": 4,
+      "conciseness": 4,
+      "quotation_score": 2,
+      "overall_score": 3
+    }
+  },
+  {
+    "id": 136,
+    "article": "Olay , öğlen saatlerinde , ilçeye bağlı Çamlıca Mahallesi'nde meydana geldi . Evinin bahçesinde çalıştığı sırada Fadime Ay , arı sokmasıyla rahatsızlandı . Durumu fark eden yakınlarının ihbarıyla olay yerine gelen sağlık ekiplerince ilk müdahalesi yapılan Ay , ardından ambulansla Araklı Bayram Halil Devlet Hastanesi'ne kaldırıldı . Burada tedaviye alınan Fadime Ay , doktorların tüm müdahalesine rağmen hayatını kaybetti . Ölümüyle yakınlarını yasa boğan Fadime Ay'ın cansız bedeni otopsi için morga konuldu .",
+    "summary": "Trabzon'un Araklı ilçesinde , bahçede çalıştığı sırada arı sokunca rahatsızlanan Fadime Ay ( 65 ) , kaldırıldığı hastanede hayatını kaybetti .",
+    "scores": {
+      "relevance": 5,
+      "coherence": 5,
+      "consistency": 5,
+      "fluency": 5,
+      "conciseness": 5,
+      "quotation_score": 5,
+      "overall_score": 5
+    }
+  },
+  {
+    "id": 137,
+    "article": "Marmaris'te saat 24.00'ten sonra yüksek sesle müzik çalmanın yasak olduğu Uzunyalı'da bu saatten sonra müzik yayınını kesmeyen bir bara geçen haftalarda şikayet üzerine yüksek miktarda bir ceza kesildi . İşletmeci ve çalışanlar ile çevredeki esnaf arasında şikayet nedeniyle çıkan kavgayı ise polis güçlükle ayırdı . Dün gece ise saat 23.00 sıralarında aynı işletmenin girişinde çalışanlar tarafından yakılan meşale ve maytaplar bir müşterinin kolunun hafif şekilde yanmasına sebep oldu . Müşterinin şikayeti üzerine Marmaris emniyeti , 5 araçla mekanı mühürlemeye geldi . Emniyet güçlerine direnen işletmeci ve çalışanlar , `` Yakarız burayı '' diyerek polise direndi . Polis ekipleri işlem yapmaya çalışırken , masa ve sandalyeleri barın önüne toplayan işletmecilerden biri benzin dökerek ateşe verdi . Bir anda büyüyen yangın , işletmenin önündeki palmiye ağaçlarına da sıçradı . Olaya şahit olan turistler büyük korku yaşarken , barın ve yanındaki işletmenin içinde kalanlar can havliyle koşarak kendilerini dışarı attı .",
+    "summary": "Muğla'nın Marmaris ilçesindeki bir barın işletmeci ve çalışanları , içeride yakılan meşale ve maytaplar nedeniyle kolu hafif şekilde yaralanan müşterinin şikayeti üzerine iş yerini mühürlemeye gelen polis ekiplerine direnip ortaya topladıkları masa ve sandalyeleri ateşe verdi . Yangın iş yerinin önündeki palmiye ağaçlarına da sıçrarken , turistler korkulu anlar yaşadı .",
+    "scores": {
+      "relevance": 5,
+      "coherence": 5,
+      "consistency": 5,
+      "fluency": 5,
+      "conciseness": 5,
+      "quotation_score": 5,
+      "overall_score": 5
+    }
+  },
+  {
+    "id": 138,
+    "article": "Marmaris'te saat 24.00'ten sonra yüksek sesle müzik çalmanın yasak olduğu Uzunyalı'da bu saatten sonra müzik yayınını kesmeyen bir bara geçen haftalarda şikayet üzerine yüksek miktarda bir ceza kesildi . İşletmeci ve çalışanlar ile çevredeki esnaf arasında şikayet nedeniyle çıkan kavgayı ise polis güçlükle ayırdı . Dün gece ise saat 23.00 sıralarında aynı işletmenin girişinde çalışanlar tarafından yakılan meşale ve maytaplar bir müşterinin kolunun hafif şekilde yanmasına sebep oldu . Müşterinin şikayeti üzerine Marmaris emniyeti , 5 araçla mekanı mühürlemeye geldi . Emniyet güçlerine direnen işletmeci ve çalışanlar , `` Yakarız burayı '' diyerek polise direndi . Polis ekipleri işlem yapmaya çalışırken , masa ve sandalyeleri barın önüne toplayan işletmecilerden biri benzin dökerek ateşe verdi . Bir anda büyüyen yangın , işletmenin önündeki palmiye ağaçlarına da sıçradı . Olaya şahit olan turistler büyük korku yaşarken , barın ve yanındaki işletmenin içinde kalanlar can havliyle koşarak kendilerini dışarı attı . Marmaris itfaiyesinin söndürdüğü yangın sonrası polise mukavemet gösteren çalışanlar ve yangını çıkaran işletmeci olmak üzere 6 kişi gözaltına alındı .",
+    "summary": "Muğla'nın Marmaris ilçesindeki bir barın işletmeci ve çalışanları , içeride yakılan meşale ve maytaplar nedeniyle kolu hafif şekilde yaralanan müşterinin şikayeti üzerine iş yerini mühürlemeye gelen polis ekiplerine direnip ortaya topladıkları masa ve sandalyeleri ateşe verdi . Yangın iş yerinin önündeki palmiye ağaçlarına da sıçrarken , turistler korkulu anlar yaşadı .",
+    "scores": {
+      "relevance": 5,
+      "coherence": 5,
+      "consistency": 5,
+      "fluency": 5,
+      "conciseness": 5,
+      "quotation_score": 4,
+      "overall_score": 5
+    }
+  },
+  {
+    "id": 139,
+    "article": "Saldırıya tepki gösteren Göteborg Camii Derneği , sosyal medya hesabından yayımladığı basın açıklaması ile olayı kınadı . Saldırganların mescitte bulunan Kuran-ı Kerimlerin sayfalarını yırttığı belirtilen açıklamada , Kuran-ı Kerim'in ve mescitte bulunan halının üzerine şekerli içecek döktükleri de belirtildi . Bu durumun Müslümanları çok incittiği vurgulanan açıklamada , `` Bu saldırı sonrası Müslümanlar kendilerini kırgın ve incinmiş hissetti . Hastanede tedavi gören Müslüman hastalar bu mescitte manevi destek görüyor ve dua ediyor . Bir hastanede hastaların manevi destek gördüğü bir mescidi harap etmek saldırganların ne kadar nefret dolu kişiler olduğunu gösteriyor . '' ifadeleri kullanıldı . Polis ise olayla ilgili soruşturma başlatırken , hastanede bulunan güvenlik kameralarını incelemeye aldı .",
+    "summary": "İsveç'in Göteborg kentinde Mölndal Hastanesinde bulunan mescit odasına yapılan ırkçı saldırıda Kuran-ı Kerim yırtıldı .",
+    "scores": {
+      "relevance": 2,
+      "coherence": 3,
+      "consistency": 3,
+      "fluency": 4,
+      "conciseness": 4,
+      "quotation_score": 1,
+      "overall_score": 3
+    }
+  },
+  {
+    "id": 140,
+    "article": "Ankara Büyükşehir Belediye Başkanı Mansur Yavaş , Ankara Kent Konseyi Olağan Genel Kurulu'nda belediye başkanlığına talip olduğu ilk günden beri hayalini kurduğu değişimin başlangıcını yapmanın mutluluğunu yaşadığını söyledi . Yıllardır Ankara için projeleri sorulduğunda `` en büyük projemiz yönetim anlayışını değiştirmek '' cevabını verdiğini ifade eden Yavaş , sözünü verdikleri ortak akıl ve şeffaflıkla yönetim anlayışını hayata geçirme yolunda büyük adım attıklarını ifade etti . Yavaş , Ankara Kent Konseyi'nin başkentin vicdanı , feraseti ve ortak aklını temsil edeceğini vurgulayarak , `` Yönetim anlayışım gereği meşvereti önemsiyorum . Yerel demokrasinin güçlü bir enstrümanı olarak kent konseyinin , istişareyi merkeze alan ortak bir akıl mekanizması işlevi göreceğine inanıyorum . '' dedi . Kent konseyinin şehir açısından öneminin farkında olduğunu vurgulayan Yavaş , `` Şehrimizdeki önemli sivil toplum örgütlerini , odaları , borsaları , organize sanayi bölgelerini , teknokentlerimizi kısacası hayatın her alanına dokunan STK'leri harekete geçirdik . Üst düzey bir katılımla Ankara'nın vicdanı olacak birlikteliğin tesis edildiğini düşünüyorum . '' değerlendirmesinde bulundu . Yavaş , görevlerinin bu yüzyılın temel problemlerine çözüm üreterek Ankara'yı gelecek nesillere daha güzel biçimde teslim etmek olduğuna değinerek , `` Özellikle altını çiziyorum , burası politik bir topluluk değildir . Ankara Kent Konseyi , başkent konseyidir . Başkent konseyinin partisi Ankara'dır . '' diye konuştu . Toplam 264 delegeden 234'ünün katıldığı genel kurulda , ATO Yönetim Kurulu Başkan Yardımcısı Halil İbrahim Yılmaz , 1 ' e karşı 233 delegenin oyunu alarak Ankara Kent Konseyi'nin yeni başkanı seçildi . Genel Kurula , Yenimahalle Belediye Başkanı Fethi Yaşar , ATO Yönetim Kurulu Başkanı Gürsel Baran , Ankara Sanayi Odası Başkan Vekili Mete Çağlayan , Ankara Üniversitesi Rektörü Prof. Dr. Erkan İbiş , kamu kurumları ile sivil toplum kuruluşlarının temsilcileri , belediye temsilcileri , akademisyen ve muhtarlar katıldı .",
+    "summary": "Ankara Ticaret Odası ( ATO ) Yönetim Kurulu Başkan Yardımcısı Halil İbrahim Yılmaz , 1 ' e karşı 233 delegenin oyunu alarak Ankara Kent Konseyi'nin yeni başkanı seçildi .",
+    "scores": {
+      "relevance": 2,
+      "coherence": 3,
+      "consistency": 4,
+      "fluency": 4,
+      "conciseness": 5,
+      "quotation_score": 1,
+      "overall_score": 3
+    }
+  },
+  {
+    "id": 141,
+    "article": "CHP Genel Başkanı Kemal Kılıçdaroğlu , CHP eski milletvekili Eren Erdem'in tutukluğu ile ilgili Twitter hesabından açıklama yaptı . Kılıçdaroğlu , `` Adalet temsilcisi bağımsız mahkemeler , iktidar adına değil 'Türk milleti adına ' kararlarını verir . Eren Erdem , Türk milletinin bilgiye erişebilmesi adına , gazetecilik yaptığı için 1 yıldır haksız bir şekilde tutuklu . Bu zulüm artık son bulmalı , Eren Erdem serbest bırakılmalıdır '' ifadelerini kullandı .",
+    "summary": "CHP Genel Başkanı Kemal Kılıçdaroğlu , `` Bu zulüm artık son bulmalı , Eren Erdem serbest bırakılmalıdır '' dedi .",
+    "scores": {
+      "relevance": 3,
+      "coherence": 4,
+      "consistency": 4,
+      "fluency": 5,
+      "conciseness": 5,
+      "quotation_score": 4,
+      "overall_score": 4
+    }
+  },
+  {
+    "id": 142,
+    "article": "Havalimanı yönetimi , acil durumun neden kaynaklandığını henüz açıklamış değil . CNN International ’ a konuşan United Airlines yolcusu John Murray , New York ’ a doğru havalanan uçaklarının 10 dakika sonra geriye döndüğünü söyledi . Murray , “ New Jersey ’ nin kuzeyinde dönüp durduk ve hiçbir yere gitmiyorduk . Ardından Newark ’ a indik . Acil durum yetkilileri bizi uçaktan çıkardı ” dedi . Hafta içinde Hindistan ’ dan yola çıkan bir uçak , Newark ’ a giderken İngiltere üzerinde jetler tarafından indirilmişti . Yolcu uçağına yapılan bomba ihbarı asılsız çıkmıştı .",
+    "summary": "ABD'nin New Jersey eyaletindeki Newark Liberty Uluslararası Havalimanı'nda uçuşlar durduruldu .",
+    "scores": {
+      "relevance": 2,
+      "coherence": 3,
+      "consistency": 2,
+      "fluency": 4,
+      "conciseness": 4,
+      "quotation_score": 1,
+      "overall_score": 2
+    }
+  },
+  {
+    "id": 143,
+    "article": "MUĞLA'nın Bodrum ilçesindeki bir sitede alkol alıp yüksek sesle müzik dinleyerek çevreyi rahatsız ettiği öne sürülen Kazım E. ( 57 ) , kendisini uyaran Erke Ergün Özveren ' i ( 18 ) bıçaklayarak öldürdü . Olay , dün saat 20.00 sıralarında , Akyarlar Mahallesi'ndeki bir sitede meydana geldi . Balkonda alkol alıp , yüksek sesle müzik dinleyen Kazım E. , bağırarak çevreyi rahatsız etti . Tatil için kente gelen ve sitedeki bir daireye yakınlarıyla yerleşen Erke Ergün Özveren ise Kazım E.'yi sessiz olması için uyardı . Çıkan tartışmada Kazım E. , eline bıçak alıp dışarı çıkarak Özveren ' i , göğsünden ve karın boşluğundan yaraladı . Erke Ergün Özveren , kanlar içinde yerde kaldı . ihbar üzerine adrese sevk edilen sağlık ekiplerinin yaptığı kontrolde , Özveren'in öldüğü belirlendi . Özveren'in cansız bedeni , yapılan incelemenin ardından morga kaldırılırken , Kazım E. ise gözaltına alındı .",
+    "summary": "MUĞLA'nın Bodrum ilçesindeki bir sitede alkol alıp yüksek sesle müzik dinleyerek çevreyi rahatsız ettiği öne sürülen Kazım E. ( 57 ) , kendisini uyaran Erke Ergün Özveren ' i ( 18 ) bıçaklayarak öldürdü .",
+    "scores": {
+      "relevance": null,
+      "coherence": null,
+      "consistency": null,
+      "fluency": null,
+      "conciseness": null,
+      "quotation_score": null,
+      "overall_score": null,
+      "error": "Error code: 400 - {'error': {'message': \"The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766\", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}"
+    }
+  },
+  {
+    "id": 144,
+    "article": "`` Aynaya bakınca bu yaptığınız yorumlardan hiç yüzünüz kızarıyor mu ? Keni yaşamınızda uğraşacak değerli bir şeyleriniz olmadığı için birilerinin yaşamı üzerinden kendinizi varetmek nasıl bir duygu ? Benim yanlış bir şey yaptığımı ima eden yorumlarınızı yaparken , sizler bu yorumları yaparak çok mu doğru şeyler yaptığınızı sanıyorsunuz ? Gerçekten üzücü , kırıcı hem de çok yaralayıcı. ``",
+    "summary": "Basketbolcu Caner Erdeniz ile İspanya'da evlenen oyuncu ve sunucu Müge Boz ; evliliği ve hamileliğiyle ilgili yorumlara sosyal medyadan isyan etti .",
+    "scores": {
+      "relevance": 3,
+      "coherence": 4,
+      "consistency": 3,
+      "fluency": 5,
+      "conciseness": 4,
+      "quotation_score": 2,
+      "overall_score": 3
+    }
+  },
+  {
+    "id": 145,
+    "article": "Payas ilçesi Karbeyaz Mahallesi'nde oturan Senem Altunsoy , ekmek almak için bakkala giderken , kullandığı bisikletin freni arızalandı . Bisikletiyle bir evin duvarına çarpan Senem Altunsoy , ağır yaralandı . Çağırılan sağlık ekibinin yaptığı ilk müdahalenin ardından ambulansla Dörtyol Devlet Hastanesi'ne kaldırılan Altunsoy , tüm müdahalelere karşın kurtarılamadı . Altunsoy'un cenazesi otopsi için Adana Adli Tıp Kurumu morguna gönderildi .",
+    "summary": "HATAY'da ekmek almaya giderken bisikletiyle duvara çarpan 15 yaşındaki Senem Altunsoy , yaralı olarak kaldırıldığı hastanede kurtarılamadı .",
+    "scores": {
+      "relevance": null,
+      "coherence": null,
+      "consistency": null,
+      "fluency": null,
+      "conciseness": null,
+      "quotation_score": null,
+      "overall_score": null,
+      "error": "Error code: 400 - {'error': {'message': \"The response was filtered due to the prompt triggering Azure OpenAI's content management policy. Please modify your prompt and retry. To learn more about our content filtering policies please read our documentation: https://go.microsoft.com/fwlink/?linkid=2198766\", 'type': None, 'param': 'prompt', 'code': 'content_filter', 'status': 400, 'innererror': {'code': 'ResponsibleAIPolicyViolation', 'content_filter_result': {'hate': {'filtered': False, 'severity': 'safe'}, 'jailbreak': {'filtered': False, 'detected': False}, 'self_harm': {'filtered': False, 'severity': 'safe'}, 'sexual': {'filtered': False, 'severity': 'safe'}, 'violence': {'filtered': True, 'severity': 'medium'}}}}}"
+    }
+  },
+  {
+    "id": 146,
+    "article": "Bodrum Torba Kavşağı'nda doğum günü olan 29 Haziran'da geçirdiği trafik kazasında yaralanan ve tedavi gördüğü hastanede 4 Temmuz'da yaşamını yitiren Akarsu'nun ailesi ve hayranları , şarkıcının posterleriyle Kültür Park'ta toplandı , burada Akarsu'nun heykeline çiçek bıraktı . Sanatçının seslendirdiği `` Rüzgar ” , `` Islak Islak '' , `` Amasra '' ve `` Gözlerin '' şarkılarını söyleyen grup , Amasra Şehir Mezarlığı'na kadar yürüdü . Anma töreninde , Akarsu'nun mezarına karanfil bırakıldı , Kur'an-ı Kerim okundu . Anne Hatice Akarsu , gazetecilere yaptığı açıklamada , oğlunun 40. yaş gününde , mezarının başında sevenleriyle bir araya geldiklerini söyledi . Oğlunun vefatının üzerinden 12 geçtiğini ve yüreğinin hala yandığını ifade eden Akarsu , `` Bugün oğlumun doğum günü . Oğlum gönüllerde taht kurmuş bir evlat . Allah'ıma bana bir evlat verdiği için şükürler olsun . Dünyanın dört bir yanından gelenler var . Ben nefes alabiliyorsam onlarla alabiliyorum . Allah kimseye evlat acısı yaşatmasın . Rabbimin de bir bildiği var ve bu benim için bir sınav ve ben bu sınavı vereceğim . Barış'ımın da dediği gibi bu dünya yalan dünya . '' diye konuştu .",
+    "summary": "Muğla'nın Bodrum ilçesinde 12 yıl önce geçirdiği trafik kazasında hayatını kaybeden şarkıcı Barış Akarsu'nun ailesi ve hayranları , sanatçıyı doğum gününde Bartın'daki mezarı başında andı .",
+    "scores": {
+      "relevance": 4,
+      "coherence": 5,
+      "consistency": 5,
+      "fluency": 5,
+      "conciseness": 5,
+      "quotation_score": 3,
+      "overall_score": 4
+    }
+  },
+  {
+    "id": 147,
+    "article": "Olay , sabah saatlerinde Kastamonu'nun İnebolu ilçesinde meydana geldi . Edinilen bilgiye göre , İnebolu Zaferyolu Caddesi mevkiinde kıyıya yakın bir bölgede oluşan metrelerce uzunluktaki hortum vatandaşları korkuttu . Sahil bölgesine gelerek hortumun oluşumunu ve hareketini seyreden vatandaşlar korku dolu anlar yaşadı . İnebolu Limanı mevkisine hareket eden hortum liman dışından yoluna devam ederek kısa süre sonra gözden kayboldu . Hortumun sahile yaklaşma anı ise vatandaşların kameralarına yansıdı .",
+    "summary": "Kastamonu ’ nun İnebolu ilçesinde Karadeniz açıklarında kıyıya yakın bir bölgede görülen hortum kısa süreli paniğe neden oldu .",
+    "scores": {
+      "relevance": 4,
+      "coherence": 4,
+      "consistency": 5,
+      "fluency": 5,
+      "conciseness": 5,
+      "quotation_score": 1,
+      "overall_score": 4
+    }
+  },
+  {
+    "id": 148,
+    "article": "Şile Sahilköy Reis plajında saat 13.30 sıralarında , askerden yeni gelen 21 yaşındaki Volkan Ak ile arkadaşları yüzmek için denize girdiler . Denize giren Volkan Ak , denizdeki dev dalgalara kapılarak kayboldu . Olay yerine Jandarma su altı arama kurtarma ve Sahil Güvenlik su altı arama kurtarma ekipleri sevk edildi . Denizde kaybolan genin ailesi ile arkadaşları sahilde endişeli bekleyişlerini sürdürüyor . Kaybolan genci arama çalışmaları devam ediyor .",
+    "summary": "Şile ’ de yüzmek için arkadaşlarıyla denize giren 21 yaşındaki Volkan Ak , denizdeki dalgalara kapılarak kayboldu . Kaybolan genci arama çalışmaları devam ederken , gencin ailesi ile arkadaşları sahilde bekleyişlerini sürdürüyor .",
+    "scores": {
+      "relevance": 5,
+      "coherence": 5,
+      "consistency": 5,
+      "fluency": 5,
+      "conciseness": 5,
+      "quotation_score": 5,
+      "overall_score": 5
+    }
+  },
+  {
+    "id": 149,
+    "article": "Cumhur İttifakı'nın 23 Haziran İstanbul seçimindeki adayı Binali Yıldırım , İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu'na yaptığı çay teklifinin hatırlatılması üzerine , `` Benim çay teklifim geçerli de Ekrem İmamoğlu seçimi kazandı belki fikrini değiştirmiştir . Şimdi biraz telaşesi var , işlerine baksın bakalım '' yanıtını vermişti . İmamoğlu'ndan çağrı : Kahveye beklerim CHP-İYİ Parti ve İstanbul Gönüllüleri yöneticileri ve il yönetimleriyle Çırpıcı Sosyal Tesisleri'nde öğle yemeğinde bir araya gelen İBB Başkanı Ekrem İmamoğlu , Yıldırım'ın çay teklifine burada yaptığı açıklama ile yanıt verdi . İmamoğlu , Binali Yıldırım'ın tekrarladığı çay davetine karşılık Yıldırım ' ı Saraçhane'deki İBB Başkanlık makamına kahve içmeye çağırdı . İmamoğlu şunları söyledi : `` Binali beye teşekkür ederiz he şeyden önce . Seçimden önce ben 4 gün kala 5 gün kala sürekli çay davetini beklediğimi ısrarla söyledim . Seçimden önce olsaydı o çay çok lezzetli olurdu . Bundan sonraki çaylarımızı içeriz sorun yok . Ama bu aşamadan sonra sanırım yakışan beni ziyaret edip benim kahvemi içmesi . İBB'yi ziyaret etmesi gelip tebrik etmesi . Televizyonlardan değil de gelip tebrik etmeli . Ben olsam öyle yapardım . Ama daha önceki çay içme davetini ben şöyle algılamıştım : 'Yaptığımız Pazar günkü yayından sonra seçim bitmeden bir araya gelip çay içelim seçimin harareti düşsün topluma güzel mesajlar çıksın…'Meydanlardan da bunu dile getirdim . Ama olmadı . Dolayısıyla şu an hoş olan bizi televizyonlar üzerinden tebrik etmesi değil de gelip bize makamda Saraçhane'de ziyaret edip bize yakışan da onu en güzel şekilde ağırlamak olur . Kahveyi hep beraber içeriz . İnşallah 40 yıl da hatırı olsun . ''",
+    "summary": "İstanbul Büyükşehir Belediyesi Başkanı Ekrem İmamoğlu , 23 Haziran İstanbul seçimindeki rakibi Binali Yıldırım'ın kendisine yönelik çay davetine `` Bu aşamadan sonra sanırım yakışan beni ziyaret edip benim kahvemi içmesi . İBB'yi ziyaret etmesi , gelip tebrik etmesi '' yanıtını verdi .",
+    "scores": {
+      "relevance": null,
+      "coherence": null,
+      "consistency": null,
+      "fluency": null,
+      "conciseness": null,
+      "quotation_score": null,
+      "overall_score": null,
+      "error": "Expecting value: line 1 column 1 (char 0)"
+    }
+  }
+]

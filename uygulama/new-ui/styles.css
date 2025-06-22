@@ -1,0 +1,56 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 30px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* 👇 Yeni yapıya uygun olarak class adı 'main' değil 'main-layout' olmalı */
+.main-layout {
+  display: flex;
+  gap: 20px;
+}
+
+/* Scrollbar solda, içerik normal hizalı */
+#sidebar {
+  width: 300px;
+  height: 80vh;
+  overflow-y: auto;
+  direction: rtl; /* Scroll çubuğunu sola alır */
+  border-right: 1px solid #ddd;
+}
+
+#articleList {
+  direction: ltr; /* Yazıyı sola hizalar */
+  padding-right: 10px;
+  list-style: none;
+  margin: 0;
+}
+
+/* Liste içeriği */
+.article-list li {
+  padding: 10px;
+  cursor: pointer;
+  border-bottom: 1px solid #eee;
+}
+
+.article-list li:hover {
+  background-color: #f0f0f0;
+}
+
+/* Makale detayları */
+.article-details {
+  flex: 1;
+  padding: 10px;
+  overflow-y: auto;
+  max-height: 85vh;
+}
